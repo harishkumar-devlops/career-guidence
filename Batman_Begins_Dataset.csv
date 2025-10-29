@@ -1,0 +1,2001 @@
+age,sex,education,workclass,hours-per-week,marital-status,occupation,skills,interests,income
+56,Male,Masters,Unemployed,31,Divorced,Doctor,Excel,Technology,158365
+46,Male,PhD,Government,55,Married,Doctor,Public Speaking,Education,162000
+32,Male,PhD,Freelancer,40,Divorced,Artist,Python,Health,81901
+60,Male,High School,Self-employed,25,Married,Technician,Excel,Science,42685
+25,Female,Masters,Freelancer,22,Widowed,Teacher,Leadership,Health,82094
+38,Female,Bachelors,Freelancer,29,Single,Technician,Excel,Science,77088
+56,Male,Masters,Government,24,Single,Teacher,Communication,Science,86765
+36,Male,High School,Unemployed,45,Widowed,Manager,C++,Technology,60103
+40,Male,PhD,Freelancer,40,Married,Teacher,Excel,Education,96876
+28,Male,PhD,Unemployed,45,Married,Doctor,Data Analysis,Science,162383
+28,Male,High School,Private,57,Married,Engineer,C++,Education,49697
+41,Female,Bachelors,Unemployed,45,Married,Salesperson,Leadership,Science,66141
+53,Female,PhD,Self-employed,27,Widowed,Engineer,C++,Education,113486
+57,Female,Diploma,Self-employed,24,Single,Engineer,Excel,Health,61567
+41,Female,PhD,Freelancer,34,Divorced,Engineer,Excel,Technology,148393
+20,Male,Diploma,Unemployed,35,Divorced,Salesperson,Data Analysis,Science,55988
+39,Male,High School,Freelancer,20,Single,Technician,Python,Art,42632
+19,Male,High School,Government,35,Widowed,Salesperson,Data Analysis,Education,45571
+41,Male,PhD,Self-employed,56,Divorced,Technician,Excel,Education,134852
+61,Male,Masters,Freelancer,22,Single,Salesperson,Public Speaking,Art,66214
+47,Female,Diploma,Government,50,Widowed,Salesperson,C++,Technology,61728
+55,Male,Bachelors,Freelancer,32,Divorced,Teacher,Data Analysis,Education,64755
+19,Female,PhD,Unemployed,35,Married,Technician,Data Analysis,Technology,112332
+38,Female,Bachelors,Unemployed,40,Married,Teacher,Public Speaking,Education,51731
+50,Female,PhD,Unemployed,21,Widowed,Manager,Public Speaking,Business,212919
+29,Female,Masters,Unemployed,46,Married,Teacher,Public Speaking,Education,70097
+39,Male,Masters,Private,57,Widowed,Engineer,Python,Business,87895
+61,Female,Masters,Government,45,Single,Artist,Excel,Science,56611
+42,Female,Masters,Government,57,Single,Artist,Excel,Technology,76882
+44,Female,High School,Unemployed,44,Divorced,Doctor,Leadership,Education,83319
+59,Male,High School,Private,30,Widowed,Doctor,Python,Health,89828
+45,Male,Diploma,Unemployed,27,Divorced,Teacher,Leadership,Health,54594
+33,Male,Bachelors,Private,27,Divorced,Salesperson,Leadership,Art,66956
+32,Female,PhD,Unemployed,52,Single,Salesperson,Leadership,Health,130817
+64,Female,PhD,Self-employed,26,Divorced,Artist,Communication,Business,85627
+61,Male,High School,Self-employed,57,Married,Engineer,Leadership,Health,57165
+20,Female,PhD,Freelancer,40,Divorced,Technician,Data Analysis,Health,135811
+54,Male,High School,Unemployed,27,Widowed,Engineer,C++,Health,58654
+24,Male,Diploma,Government,40,Married,Engineer,Data Analysis,Education,80127
+38,Female,Bachelors,Freelancer,39,Single,Teacher,Data Analysis,Art,61856
+26,Female,Diploma,Self-employed,27,Widowed,Teacher,Excel,Technology,54091
+56,Female,Masters,Unemployed,50,Married,Manager,Communication,Art,110474
+35,Female,Masters,Freelancer,48,Widowed,Engineer,Leadership,Business,93571
+21,Male,Masters,Unemployed,28,Married,Salesperson,Excel,Education,75549
+42,Male,Diploma,Self-employed,34,Widowed,Salesperson,Python,Science,45755
+31,Male,PhD,Freelancer,49,Widowed,Engineer,Python,Education,125036
+26,Male,Bachelors,Self-employed,45,Married,Teacher,Excel,Health,50424
+43,Male,Masters,Private,29,Single,Teacher,C++,Health,68339
+19,Female,Masters,Self-employed,48,Single,Manager,Excel,Business,142326
+37,Male,Masters,Unemployed,35,Widowed,Manager,Excel,Science,127700
+45,Male,Bachelors,Government,55,Widowed,Doctor,Communication,Education,113768
+64,Male,Masters,Self-employed,39,Single,Artist,Python,Science,59656
+24,Female,Bachelors,Government,56,Single,Engineer,Python,Technology,76170
+61,Female,Masters,Private,41,Divorced,Salesperson,Leadership,Art,96909
+25,Female,Diploma,Freelancer,26,Single,Engineer,Data Analysis,Education,74144
+64,Female,Diploma,Freelancer,42,Widowed,Manager,Excel,Science,93928
+52,Male,Bachelors,Government,59,Married,Manager,Excel,Technology,93793
+31,Male,Diploma,Freelancer,48,Single,Doctor,C++,Technology,109165
+34,Female,Bachelors,Self-employed,35,Divorced,Artist,Public Speaking,Art,46729
+53,Female,Diploma,Government,57,Divorced,Doctor,Public Speaking,Technology,95178
+57,Male,Diploma,Unemployed,47,Divorced,Salesperson,Python,Business,65769
+21,Male,Bachelors,Self-employed,57,Married,Artist,C++,Technology,57023
+19,Female,PhD,Self-employed,50,Single,Technician,Communication,Science,122733
+23,Female,Diploma,Self-employed,33,Single,Engineer,Leadership,Business,75169
+59,Female,Masters,Unemployed,52,Single,Doctor,C++,Technology,170571
+21,Female,PhD,Private,28,Married,Manager,Python,Health,199871
+46,Male,Bachelors,Freelancer,46,Married,Doctor,Communication,Technology,106994
+35,Male,PhD,Government,43,Widowed,Technician,Excel,Business,97540
+43,Male,High School,Private,32,Divorced,Doctor,Communication,Technology,74094
+61,Female,High School,Government,45,Divorced,Engineer,Data Analysis,Technology,50797
+51,Female,Diploma,Freelancer,48,Single,Technician,C++,Technology,53063
+27,Male,Diploma,Unemployed,47,Married,Manager,Python,Business,105944
+53,Male,Masters,Self-employed,47,Married,Manager,C++,Technology,155323
+31,Male,PhD,Self-employed,27,Single,Teacher,Excel,Art,92587
+48,Male,High School,Unemployed,42,Single,Technician,Public Speaking,Science,50984
+32,Female,Diploma,Private,48,Widowed,Teacher,Excel,Art,47912
+25,Male,PhD,Private,24,Divorced,Teacher,Python,Business,116581
+31,Male,Diploma,Government,26,Divorced,Engineer,Data Analysis,Health,68847
+40,Male,Diploma,Unemployed,55,Divorced,Doctor,Leadership,Art,90595
+57,Male,High School,Private,46,Widowed,Manager,Communication,Science,64702
+38,Male,High School,Unemployed,21,Single,Manager,Communication,Education,73767
+33,Male,Diploma,Freelancer,44,Single,Doctor,Excel,Science,90509
+62,Male,Bachelors,Self-employed,28,Divorced,Manager,C++,Art,111654
+35,Female,Diploma,Self-employed,46,Divorced,Doctor,Public Speaking,Education,115912
+64,Female,Diploma,Self-employed,20,Widowed,Technician,C++,Business,57585
+41,Female,Masters,Unemployed,42,Married,Engineer,Data Analysis,Science,93211
+43,Female,Masters,Unemployed,29,Married,Engineer,Leadership,Health,125896
+42,Male,Masters,Government,44,Divorced,Salesperson,C++,Education,82814
+62,Female,Bachelors,Self-employed,22,Widowed,Engineer,Communication,Education,70254
+58,Female,Bachelors,Government,25,Divorced,Doctor,Public Speaking,Science,98261
+46,Male,Diploma,Self-employed,25,Married,Salesperson,C++,Art,46412
+32,Male,Masters,Government,21,Divorced,Doctor,Public Speaking,Education,157646
+62,Female,Bachelors,Government,37,Married,Artist,Leadership,Business,60308
+18,Female,High School,Freelancer,42,Married,Salesperson,Communication,Science,42630
+42,Male,Diploma,Government,21,Married,Manager,Public Speaking,Business,74286
+24,Female,PhD,Unemployed,31,Single,Manager,C++,Science,171476
+26,Male,Diploma,Government,41,Single,Artist,Communication,Business,53930
+41,Male,PhD,Self-employed,56,Divorced,Artist,Excel,Art,91048
+18,Male,Masters,Government,39,Married,Engineer,Excel,Science,124785
+61,Male,PhD,Private,58,Single,Artist,Data Analysis,Health,102988
+25,Female,Masters,Self-employed,43,Divorced,Doctor,Excel,Art,120688
+41,Male,High School,Private,39,Divorced,Teacher,C++,Business,43531
+28,Male,PhD,Self-employed,20,Divorced,Doctor,Leadership,Science,214536
+34,Female,Diploma,Unemployed,20,Divorced,Salesperson,Communication,Art,55813
+25,Male,Masters,Unemployed,36,Divorced,Artist,Public Speaking,Business,61204
+52,Female,Diploma,Unemployed,20,Widowed,Manager,Python,Technology,95074
+52,Female,Bachelors,Private,49,Married,Doctor,Excel,Technology,101354
+50,Female,Masters,Freelancer,22,Divorced,Manager,Excel,Education,131477
+22,Male,PhD,Self-employed,30,Widowed,Doctor,Python,Health,196297
+59,Female,Masters,Unemployed,43,Married,Manager,Public Speaking,Technology,159506
+56,Female,Diploma,Self-employed,41,Single,Technician,Public Speaking,Business,69020
+58,Male,High School,Private,45,Divorced,Doctor,Python,Art,72428
+45,Female,Masters,Freelancer,32,Widowed,Salesperson,Public Speaking,Science,82519
+24,Female,PhD,Private,20,Single,Manager,C++,Art,156862
+26,Female,Bachelors,Self-employed,43,Widowed,Teacher,Public Speaking,Education,69903
+25,Female,High School,Freelancer,29,Married,Salesperson,Communication,Art,50521
+29,Female,Bachelors,Freelancer,54,Married,Engineer,Public Speaking,Technology,77227
+51,Male,Masters,Private,43,Single,Doctor,Excel,Art,158336
+50,Female,Diploma,Unemployed,47,Widowed,Teacher,Leadership,Technology,52179
+40,Female,Diploma,Self-employed,55,Divorced,Engineer,C++,Technology,60279
+41,Male,PhD,Government,35,Divorced,Doctor,C++,Health,221000
+54,Male,Diploma,Government,59,Single,Teacher,Public Speaking,Education,50787
+52,Male,High School,Private,35,Single,Teacher,Leadership,Business,44458
+61,Female,Diploma,Self-employed,36,Single,Salesperson,Leadership,Technology,55667
+57,Male,PhD,Self-employed,34,Widowed,Technician,Data Analysis,Science,96027
+39,Female,Masters,Private,35,Divorced,Teacher,Leadership,Education,69724
+44,Female,Masters,Self-employed,34,Divorced,Technician,Public Speaking,Business,72701
+52,Male,Diploma,Unemployed,53,Divorced,Artist,Public Speaking,Science,52723
+18,Male,Bachelors,Private,30,Single,Salesperson,Python,Art,75998
+52,Female,Masters,Unemployed,20,Divorced,Manager,Excel,Education,152909
+54,Male,Diploma,Self-employed,34,Married,Salesperson,Data Analysis,Science,50765
+64,Female,PhD,Private,45,Single,Engineer,Public Speaking,Education,115243
+31,Male,Diploma,Self-employed,23,Divorced,Manager,Python,Education,103608
+20,Male,Masters,Private,24,Widowed,Manager,Data Analysis,Art,159135
+18,Male,PhD,Self-employed,54,Single,Technician,Excel,Art,100111
+22,Female,Diploma,Unemployed,32,Married,Manager,Data Analysis,Education,89495
+43,Male,High School,Unemployed,29,Married,Teacher,Python,Science,33107
+31,Female,PhD,Self-employed,30,Widowed,Technician,Communication,Health,132508
+56,Female,High School,Private,37,Widowed,Manager,Public Speaking,Technology,79656
+44,Female,Bachelors,Government,53,Single,Technician,Excel,Art,61297
+26,Female,PhD,Unemployed,58,Single,Artist,C++,Health,89110
+32,Male,High School,Unemployed,42,Married,Technician,Excel,Art,48956
+32,Female,Masters,Government,26,Widowed,Doctor,Excel,Education,135903
+43,Female,Masters,Self-employed,58,Single,Teacher,Excel,Health,86172
+59,Male,Bachelors,Private,22,Married,Engineer,Communication,Science,81417
+30,Female,PhD,Self-employed,31,Widowed,Doctor,Public Speaking,Science,176943
+49,Male,PhD,Freelancer,26,Married,Doctor,Python,Business,203143
+56,Female,PhD,Unemployed,45,Divorced,Doctor,Public Speaking,Technology,218394
+49,Male,Bachelors,Freelancer,52,Widowed,Manager,C++,Technology,95089
+21,Female,PhD,Unemployed,56,Single,Technician,Python,Art,110962
+47,Male,Masters,Unemployed,34,Single,Technician,Data Analysis,Technology,107825
+54,Female,High School,Freelancer,21,Divorced,Salesperson,Data Analysis,Business,46637
+40,Female,Masters,Freelancer,26,Widowed,Manager,Data Analysis,Science,131657
+56,Male,Masters,Self-employed,51,Married,Teacher,Python,Health,75527
+62,Male,High School,Freelancer,23,Single,Manager,Leadership,Health,61084
+32,Male,Masters,Self-employed,39,Divorced,Manager,Communication,Science,120133
+60,Male,Bachelors,Self-employed,55,Divorced,Manager,Leadership,Education,101005
+46,Female,High School,Self-employed,51,Widowed,Teacher,Public Speaking,Science,41412
+53,Female,Masters,Unemployed,47,Widowed,Salesperson,Data Analysis,Health,73593
+30,Male,Diploma,Unemployed,32,Single,Teacher,Communication,Art,44404
+49,Female,Masters,Freelancer,20,Divorced,Artist,Python,Business,55916
+24,Male,Bachelors,Unemployed,54,Married,Salesperson,Data Analysis,Science,69461
+39,Male,PhD,Freelancer,49,Divorced,Artist,Python,Education,80241
+45,Female,Masters,Unemployed,55,Married,Artist,Communication,Art,78446
+19,Female,PhD,Private,44,Married,Artist,Python,Science,102946
+59,Female,Diploma,Private,35,Single,Technician,Python,Art,49700
+62,Female,Masters,Freelancer,38,Divorced,Doctor,C++,Science,134280
+23,Female,High School,Unemployed,20,Married,Doctor,Public Speaking,Art,85407
+45,Female,PhD,Unemployed,24,Widowed,Artist,Leadership,Technology,79712
+45,Female,Diploma,Self-employed,41,Married,Artist,Leadership,Art,38381
+61,Male,High School,Government,43,Widowed,Engineer,Leadership,Technology,65755
+61,Male,High School,Freelancer,56,Widowed,Doctor,Excel,Health,82273
+37,Male,High School,Government,55,Divorced,Engineer,C++,Technology,55387
+47,Male,High School,Government,55,Widowed,Salesperson,Data Analysis,Art,49009
+28,Male,Masters,Freelancer,23,Married,Engineer,Data Analysis,Business,117914
+45,Female,Masters,Unemployed,55,Widowed,Manager,Data Analysis,Business,118282
+42,Male,Masters,Freelancer,37,Divorced,Technician,Leadership,Health,75489
+56,Male,Diploma,Government,35,Single,Salesperson,Public Speaking,Art,53483
+50,Male,Diploma,Unemployed,37,Married,Teacher,Leadership,Technology,48471
+18,Male,Diploma,Private,41,Married,Doctor,Public Speaking,Business,98680
+44,Male,Bachelors,Freelancer,21,Divorced,Artist,C++,Science,58948
+30,Male,Diploma,Freelancer,40,Divorced,Salesperson,Public Speaking,Education,58814
+58,Male,Masters,Unemployed,55,Divorced,Artist,Python,Art,80572
+20,Female,Masters,Private,58,Divorced,Teacher,Leadership,Science,62952
+56,Female,Bachelors,Private,58,Married,Salesperson,Data Analysis,Science,63429
+23,Male,Bachelors,Unemployed,48,Single,Doctor,Python,Art,112286
+25,Female,Diploma,Self-employed,45,Widowed,Salesperson,Leadership,Education,62956
+44,Female,PhD,Freelancer,40,Widowed,Artist,Communication,Business,80951
+26,Female,Bachelors,Freelancer,36,Single,Artist,Excel,Education,47308
+54,Female,High School,Government,35,Single,Manager,Leadership,Health,70520
+50,Male,Masters,Unemployed,50,Single,Engineer,Communication,Technology,101719
+59,Female,High School,Government,28,Divorced,Salesperson,C++,Technology,40102
+61,Female,Masters,Government,50,Married,Artist,Communication,Science,60744
+41,Female,Masters,Private,33,Married,Technician,C++,Business,105237
+32,Male,Bachelors,Freelancer,56,Married,Doctor,Leadership,Education,117270
+49,Male,Bachelors,Government,21,Divorced,Technician,C++,Science,82406
+49,Male,High School,Private,33,Married,Teacher,Communication,Art,40805
+41,Male,Masters,Unemployed,52,Divorced,Salesperson,Public Speaking,Science,67669
+58,Male,High School,Government,54,Married,Manager,Excel,Art,86379
+29,Male,PhD,Freelancer,58,Single,Doctor,Python,Art,226882
+56,Male,High School,Government,39,Widowed,Manager,Python,Health,85507
+19,Female,Diploma,Unemployed,21,Widowed,Engineer,Excel,Health,81938
+20,Female,High School,Government,38,Divorced,Artist,Data Analysis,Art,41021
+54,Female,Diploma,Freelancer,56,Married,Doctor,Python,Business,86652
+34,Male,Diploma,Private,37,Widowed,Teacher,Leadership,Health,49712
+19,Male,Diploma,Freelancer,35,Single,Salesperson,Data Analysis,Health,48702
+19,Male,PhD,Private,23,Single,Engineer,Leadership,Technology,134458
+45,Male,High School,Self-employed,31,Single,Engineer,Communication,Science,46113
+40,Male,High School,Freelancer,48,Divorced,Manager,Communication,Technology,68514
+54,Female,PhD,Freelancer,26,Divorced,Engineer,Data Analysis,Business,167177
+49,Female,Masters,Unemployed,33,Married,Doctor,Data Analysis,Health,135912
+50,Male,Bachelors,Government,31,Single,Manager,Data Analysis,Health,120271
+18,Male,High School,Private,54,Married,Engineer,Data Analysis,Education,54992
+36,Male,Bachelors,Private,24,Married,Salesperson,C++,Business,63967
+19,Male,PhD,Unemployed,36,Single,Teacher,Public Speaking,Science,118292
+61,Female,Masters,Unemployed,51,Married,Salesperson,Data Analysis,Science,98848
+43,Male,Masters,Government,29,Widowed,Technician,Public Speaking,Science,92007
+49,Male,Masters,Government,36,Divorced,Doctor,Data Analysis,Business,163104
+23,Male,PhD,Freelancer,24,Married,Teacher,Communication,Education,86191
+49,Male,Diploma,Self-employed,28,Single,Teacher,Leadership,Education,45934
+21,Female,Diploma,Government,52,Divorced,Manager,Public Speaking,Technology,106873
+28,Male,Bachelors,Unemployed,55,Divorced,Artist,Communication,Business,55710
+34,Male,Diploma,Government,55,Married,Manager,Python,Business,91519
+55,Female,Diploma,Private,37,Widowed,Doctor,C++,Education,109919
+41,Female,Masters,Self-employed,28,Married,Doctor,C++,Art,123429
+22,Female,Masters,Freelancer,48,Widowed,Manager,Leadership,Art,139545
+51,Male,Bachelors,Private,33,Divorced,Artist,Data Analysis,Technology,54061
+23,Male,High School,Private,44,Married,Salesperson,Communication,Art,50207
+39,Female,Bachelors,Self-employed,34,Single,Manager,Python,Art,93201
+28,Female,Bachelors,Freelancer,25,Married,Doctor,Communication,Art,142117
+33,Female,PhD,Unemployed,48,Widowed,Artist,Data Analysis,Health,74884
+50,Female,PhD,Freelancer,34,Widowed,Doctor,Data Analysis,Technology,174865
+26,Female,Bachelors,Government,48,Married,Artist,Excel,Education,56052
+23,Female,Bachelors,Private,23,Widowed,Artist,Communication,Art,57784
+33,Male,Bachelors,Government,37,Divorced,Manager,Leadership,Science,96560
+46,Male,Diploma,Unemployed,58,Married,Manager,Communication,Health,76315
+20,Male,PhD,Government,35,Widowed,Manager,C++,Art,208100
+37,Female,Bachelors,Freelancer,30,Married,Artist,Python,Health,48518
+53,Female,Masters,Government,33,Married,Artist,Public Speaking,Technology,70052
+36,Female,Masters,Unemployed,22,Single,Doctor,Leadership,Science,157162
+43,Female,Diploma,Unemployed,57,Married,Teacher,Excel,Science,48384
+20,Female,Diploma,Unemployed,37,Single,Manager,Python,Science,93012
+36,Female,High School,Freelancer,39,Widowed,Technician,Python,Art,48437
+37,Male,High School,Unemployed,44,Single,Doctor,Public Speaking,Health,93910
+49,Male,High School,Private,57,Single,Doctor,C++,Science,70536
+24,Female,Diploma,Unemployed,32,Single,Engineer,C++,Business,76053
+58,Male,Diploma,Government,23,Divorced,Manager,C++,Business,80592
+50,Female,Diploma,Government,33,Single,Salesperson,Leadership,Health,52707
+57,Male,Masters,Government,52,Married,Doctor,Communication,Art,160301
+56,Female,Diploma,Freelancer,47,Single,Engineer,Python,Art,64399
+35,Female,Masters,Government,56,Married,Technician,Communication,Technology,83382
+57,Male,High School,Freelancer,27,Single,Technician,Communication,Technology,52835
+18,Male,High School,Freelancer,53,Divorced,Salesperson,C++,Science,36476
+28,Female,High School,Unemployed,24,Widowed,Manager,Communication,Education,70798
+45,Female,Bachelors,Private,24,Single,Artist,Python,Technology,64766
+42,Male,Bachelors,Unemployed,50,Single,Engineer,Python,Art,100668
+40,Male,PhD,Unemployed,28,Divorced,Artist,Data Analysis,Education,74637
+48,Female,PhD,Freelancer,51,Single,Technician,Excel,Technology,106231
+47,Male,PhD,Freelancer,52,Married,Technician,Leadership,Health,108729
+59,Female,Bachelors,Government,22,Single,Teacher,Communication,Business,70398
+52,Female,Bachelors,Government,49,Single,Teacher,Leadership,Technology,69140
+24,Female,PhD,Unemployed,31,Widowed,Salesperson,Leadership,Technology,126687
+33,Female,PhD,Self-employed,48,Widowed,Teacher,Leadership,Health,94781
+43,Male,Diploma,Self-employed,22,Single,Teacher,Public Speaking,Art,43154
+19,Male,PhD,Government,45,Divorced,Salesperson,Data Analysis,Science,124684
+18,Male,Diploma,Self-employed,49,Widowed,Doctor,Leadership,Health,108141
+29,Male,Masters,Government,28,Single,Teacher,Data Analysis,Science,78350
+22,Male,Bachelors,Freelancer,45,Widowed,Doctor,Python,Technology,143387
+54,Male,PhD,Unemployed,21,Single,Doctor,Public Speaking,Art,212318
+49,Male,Bachelors,Private,22,Widowed,Manager,Communication,Education,86737
+26,Female,Bachelors,Unemployed,23,Widowed,Doctor,Data Analysis,Technology,135220
+58,Male,Bachelors,Government,44,Married,Doctor,Excel,Health,110370
+52,Male,Masters,Government,32,Single,Teacher,Leadership,Education,79901
+36,Female,High School,Unemployed,58,Single,Doctor,Public Speaking,Business,94045
+33,Male,PhD,Government,54,Single,Artist,Excel,Education,76834
+20,Male,High School,Self-employed,42,Single,Salesperson,Python,Health,37231
+37,Female,High School,Self-employed,28,Widowed,Teacher,Python,Education,33712
+41,Male,High School,Government,21,Married,Salesperson,C++,Health,44936
+50,Male,Bachelors,Government,50,Married,Engineer,Leadership,Technology,76350
+41,Male,Diploma,Self-employed,21,Divorced,Teacher,C++,Art,52096
+28,Female,Bachelors,Government,51,Single,Doctor,Public Speaking,Business,130445
+25,Male,Bachelors,Government,37,Divorced,Artist,Excel,Art,47597
+53,Male,High School,Unemployed,32,Widowed,Salesperson,Communication,Art,46362
+55,Female,Bachelors,Private,24,Divorced,Teacher,C++,Art,54335
+57,Male,High School,Self-employed,29,Single,Artist,Python,Health,35834
+37,Female,Diploma,Unemployed,44,Married,Salesperson,Leadership,Health,63917
+52,Female,PhD,Private,53,Married,Engineer,Excel,Business,159381
+42,Male,High School,Government,56,Single,Technician,Data Analysis,Health,40172
+52,Female,Diploma,Government,49,Widowed,Engineer,Public Speaking,Science,67860
+42,Female,PhD,Unemployed,26,Single,Technician,Public Speaking,Health,109280
+46,Male,Masters,Government,25,Widowed,Manager,Python,Health,108191
+35,Female,High School,Freelancer,22,Married,Technician,Data Analysis,Health,53205
+63,Female,High School,Unemployed,32,Widowed,Manager,Public Speaking,Technology,75948
+35,Male,Masters,Private,22,Single,Teacher,Communication,Business,67858
+19,Male,Masters,Unemployed,45,Single,Manager,Leadership,Science,148026
+52,Male,High School,Self-employed,43,Single,Artist,Communication,Health,36744
+33,Female,Masters,Unemployed,25,Widowed,Manager,Public Speaking,Business,131095
+58,Male,Bachelors,Government,31,Widowed,Artist,Communication,Education,43408
+53,Female,PhD,Government,55,Widowed,Salesperson,Public Speaking,Technology,91310
+50,Female,PhD,Freelancer,21,Married,Salesperson,Leadership,Health,126856
+21,Female,PhD,Freelancer,30,Divorced,Technician,Leadership,Science,139388
+50,Female,Bachelors,Freelancer,58,Divorced,Technician,Data Analysis,Technology,73313
+31,Female,Masters,Private,53,Single,Technician,Communication,Science,102045
+38,Female,Diploma,Freelancer,45,Married,Manager,Excel,Technology,92970
+37,Female,Masters,Private,37,Widowed,Technician,Data Analysis,Education,77331
+25,Male,High School,Freelancer,40,Single,Manager,Leadership,Business,61270
+24,Male,PhD,Private,55,Married,Manager,Python,Technology,166194
+20,Female,Masters,Unemployed,59,Single,Doctor,Public Speaking,Art,173938
+34,Female,Diploma,Unemployed,41,Married,Doctor,Data Analysis,Education,111844
+50,Male,High School,Government,49,Married,Manager,C++,Art,82388
+29,Female,Bachelors,Private,49,Divorced,Salesperson,Excel,Education,76531
+39,Male,Bachelors,Self-employed,27,Single,Artist,Public Speaking,Art,47737
+39,Male,Diploma,Government,53,Widowed,Teacher,Data Analysis,Art,44990
+63,Male,High School,Unemployed,28,Divorced,Engineer,Leadership,Science,47102
+47,Female,PhD,Private,39,Divorced,Doctor,Leadership,Technology,222409
+55,Female,Masters,Freelancer,59,Widowed,Manager,Excel,Technology,155743
+55,Male,High School,Self-employed,44,Married,Engineer,C++,Education,53902
+62,Male,Bachelors,Unemployed,38,Widowed,Doctor,Data Analysis,Business,125791
+25,Male,Diploma,Government,24,Single,Teacher,Data Analysis,Science,43091
+44,Male,Diploma,Private,30,Widowed,Artist,Communication,Technology,52737
+44,Male,Masters,Self-employed,34,Married,Manager,Python,Technology,154688
+51,Female,Diploma,Private,27,Widowed,Teacher,Leadership,Science,59524
+38,Male,Diploma,Freelancer,38,Married,Salesperson,Data Analysis,Health,61836
+47,Female,High School,Government,42,Married,Doctor,Data Analysis,Science,92205
+50,Male,PhD,Private,46,Single,Manager,Public Speaking,Technology,145784
+45,Female,Masters,Unemployed,59,Widowed,Engineer,Public Speaking,Business,114935
+64,Female,High School,Government,51,Widowed,Salesperson,Data Analysis,Health,41046
+50,Female,PhD,Unemployed,45,Single,Salesperson,C++,Art,128955
+22,Female,High School,Private,46,Married,Technician,Python,Science,53802
+36,Female,High School,Government,38,Widowed,Artist,Data Analysis,Art,41242
+21,Female,Diploma,Unemployed,48,Single,Salesperson,Excel,Health,61836
+52,Male,PhD,Freelancer,58,Married,Doctor,Leadership,Health,181344
+34,Female,Masters,Freelancer,52,Single,Artist,Communication,Health,75259
+61,Male,Masters,Private,38,Widowed,Manager,Public Speaking,Education,113837
+45,Female,PhD,Government,56,Single,Technician,Excel,Science,137864
+47,Female,Diploma,Self-employed,38,Divorced,Teacher,Leadership,Business,57171
+46,Male,Bachelors,Government,52,Married,Artist,Public Speaking,Business,48004
+63,Female,High School,Freelancer,35,Divorced,Engineer,C++,Art,63091
+23,Male,Diploma,Unemployed,42,Divorced,Doctor,Public Speaking,Art,98412
+52,Male,PhD,Self-employed,26,Married,Engineer,Python,Art,129090
+58,Male,High School,Private,45,Married,Artist,Python,Science,40252
+54,Male,Masters,Self-employed,51,Single,Technician,Leadership,Technology,80193
+41,Female,Bachelors,Private,31,Married,Teacher,Excel,Art,48567
+46,Female,Masters,Self-employed,27,Divorced,Teacher,Communication,Health,65793
+63,Male,PhD,Private,24,Divorced,Engineer,C++,Art,130382
+48,Female,High School,Private,47,Widowed,Manager,Leadership,Health,82493
+52,Female,PhD,Self-employed,24,Married,Manager,C++,Education,213616
+50,Male,High School,Self-employed,45,Divorced,Technician,Python,Technology,43759
+38,Female,Diploma,Private,24,Widowed,Teacher,Data Analysis,Technology,52829
+49,Male,Bachelors,Freelancer,41,Widowed,Engineer,Data Analysis,Science,80629
+40,Male,Diploma,Self-employed,34,Single,Engineer,Communication,Science,83472
+50,Female,Diploma,Government,32,Divorced,Engineer,C++,Business,71014
+20,Female,PhD,Unemployed,47,Single,Artist,Leadership,Education,105812
+35,Female,Bachelors,Private,52,Divorced,Technician,Communication,Science,60921
+42,Male,High School,Private,42,Single,Manager,Public Speaking,Health,85547
+59,Male,High School,Unemployed,52,Single,Manager,Public Speaking,Education,62742
+48,Female,Masters,Freelancer,37,Married,Artist,Excel,Technology,79988
+20,Female,High School,Unemployed,49,Single,Doctor,Data Analysis,Health,72494
+57,Female,PhD,Self-employed,45,Married,Artist,Leadership,Education,75902
+63,Female,Diploma,Unemployed,35,Widowed,Technician,C++,Technology,58429
+41,Male,Diploma,Private,32,Divorced,Engineer,Communication,Science,76399
+49,Female,Diploma,Unemployed,58,Widowed,Artist,Leadership,Health,41646
+64,Male,Bachelors,Government,52,Divorced,Engineer,Communication,Health,87568
+39,Male,High School,Self-employed,45,Widowed,Technician,Communication,Technology,48219
+40,Female,PhD,Unemployed,20,Divorced,Salesperson,Communication,Health,104948
+19,Female,Bachelors,Private,57,Single,Technician,C++,Science,74205
+44,Female,Masters,Self-employed,21,Divorced,Teacher,Leadership,Science,67641
+59,Male,PhD,Private,25,Divorced,Engineer,Python,Science,151691
+19,Female,PhD,Freelancer,57,Widowed,Manager,Python,Technology,144121
+43,Female,PhD,Government,43,Widowed,Artist,C++,Art,105320
+34,Male,Diploma,Freelancer,37,Widowed,Salesperson,Public Speaking,Art,55845
+57,Female,PhD,Government,46,Married,Technician,C++,Health,130532
+50,Male,High School,Unemployed,27,Married,Engineer,Data Analysis,Science,61419
+26,Female,PhD,Self-employed,47,Divorced,Salesperson,Communication,Health,117507
+60,Male,Diploma,Unemployed,29,Divorced,Doctor,Leadership,Technology,94568
+56,Female,PhD,Government,36,Single,Teacher,Leadership,Health,82798
+46,Female,Masters,Government,48,Single,Doctor,Excel,Business,159854
+59,Male,Masters,Government,25,Divorced,Technician,Excel,Art,83887
+43,Male,Diploma,Private,33,Married,Doctor,Python,Health,92556
+52,Female,High School,Self-employed,41,Divorced,Doctor,Excel,Health,91136
+42,Male,High School,Unemployed,25,Single,Teacher,Excel,Education,43516
+41,Male,Bachelors,Unemployed,45,Married,Teacher,Python,Health,55207
+30,Male,Diploma,Freelancer,58,Married,Teacher,Data Analysis,Business,46185
+24,Male,PhD,Government,31,Single,Salesperson,Public Speaking,Art,105969
+53,Female,Diploma,Government,54,Divorced,Teacher,Python,Education,48048
+62,Female,Bachelors,Government,33,Widowed,Doctor,Public Speaking,Technology,110191
+37,Male,Diploma,Unemployed,41,Divorced,Manager,Excel,Technology,76582
+18,Male,Diploma,Freelancer,42,Divorced,Manager,Leadership,Art,87136
+25,Male,Bachelors,Private,26,Single,Teacher,Excel,Technology,70568
+63,Male,High School,Self-employed,59,Married,Salesperson,Communication,Business,47120
+33,Female,PhD,Private,44,Single,Artist,Public Speaking,Health,104500
+31,Female,Bachelors,Unemployed,32,Divorced,Engineer,Public Speaking,Art,87881
+29,Male,Masters,Government,40,Widowed,Technician,Communication,Education,82834
+40,Male,High School,Self-employed,29,Widowed,Salesperson,Communication,Health,44843
+32,Male,Masters,Unemployed,28,Widowed,Artist,Data Analysis,Technology,54010
+45,Female,High School,Unemployed,34,Single,Technician,C++,Technology,43908
+51,Male,PhD,Unemployed,21,Married,Artist,Communication,Education,87475
+19,Female,PhD,Self-employed,44,Single,Artist,Public Speaking,Business,92879
+49,Male,Diploma,Self-employed,32,Widowed,Manager,Leadership,Education,95569
+40,Female,Masters,Freelancer,53,Divorced,Engineer,Public Speaking,Art,103529
+39,Male,High School,Freelancer,53,Married,Artist,Public Speaking,Education,35167
+42,Female,PhD,Private,54,Single,Teacher,Data Analysis,Technology,88548
+39,Male,Bachelors,Self-employed,57,Single,Technician,C++,Business,71227
+39,Male,PhD,Self-employed,22,Married,Salesperson,C++,Business,127651
+59,Male,Bachelors,Self-employed,25,Married,Manager,Communication,Science,120788
+23,Female,High School,Freelancer,38,Divorced,Technician,Excel,Education,41658
+32,Male,PhD,Unemployed,22,Married,Teacher,Public Speaking,Art,83391
+60,Female,PhD,Government,37,Divorced,Teacher,Python,Technology,100618
+54,Female,High School,Freelancer,58,Widowed,Artist,Excel,Health,37914
+50,Male,PhD,Self-employed,28,Widowed,Teacher,Excel,Business,93407
+25,Male,Bachelors,Freelancer,31,Single,Engineer,C++,Education,94699
+61,Male,PhD,Private,24,Widowed,Teacher,C++,Science,110045
+61,Female,Masters,Self-employed,22,Widowed,Artist,Data Analysis,Art,72165
+22,Male,Diploma,Private,30,Divorced,Technician,Data Analysis,Art,53391
+56,Female,Bachelors,Self-employed,49,Single,Teacher,C++,Technology,52779
+21,Female,Masters,Freelancer,23,Married,Manager,Leadership,Business,109318
+23,Male,High School,Unemployed,24,Single,Salesperson,Leadership,Technology,39509
+62,Male,Bachelors,Government,20,Widowed,Manager,Python,Science,106925
+49,Male,Diploma,Private,46,Married,Manager,C++,Health,102590
+47,Male,Diploma,Freelancer,47,Single,Technician,Communication,Health,49747
+64,Male,High School,Unemployed,48,Single,Doctor,Data Analysis,Health,77262
+52,Male,High School,Freelancer,37,Single,Salesperson,C++,Art,46283
+57,Female,Bachelors,Private,31,Single,Manager,Leadership,Business,94799
+33,Female,PhD,Government,32,Divorced,Manager,C++,Technology,194137
+30,Female,High School,Freelancer,21,Single,Doctor,Leadership,Technology,79820
+59,Male,PhD,Self-employed,56,Widowed,Technician,C++,Science,107711
+47,Female,Masters,Unemployed,35,Widowed,Salesperson,Public Speaking,Health,87649
+36,Female,Diploma,Freelancer,43,Divorced,Manager,Communication,Business,72199
+34,Female,PhD,Unemployed,54,Married,Artist,Python,Business,99034
+36,Female,Diploma,Self-employed,41,Married,Technician,Public Speaking,Science,66481
+45,Female,PhD,Government,55,Widowed,Salesperson,Communication,Education,92689
+43,Male,Masters,Government,30,Widowed,Manager,Leadership,Business,130957
+54,Male,High School,Self-employed,48,Divorced,Manager,Data Analysis,Business,62665
+43,Female,Masters,Unemployed,54,Married,Doctor,Data Analysis,Technology,177477
+40,Female,High School,Freelancer,34,Married,Salesperson,Excel,Science,44316
+26,Female,High School,Self-employed,50,Single,Artist,Communication,Business,29523
+29,Male,Diploma,Private,35,Single,Technician,C++,Business,53980
+18,Male,Masters,Unemployed,29,Single,Teacher,Python,Technology,85450
+18,Female,PhD,Government,51,Divorced,Engineer,C++,Business,137561
+64,Male,Masters,Self-employed,21,Widowed,Artist,C++,Technology,75638
+51,Male,Diploma,Government,43,Divorced,Teacher,Communication,Education,53351
+49,Female,High School,Unemployed,42,Married,Artist,Python,Art,43025
+42,Male,Diploma,Government,21,Widowed,Salesperson,Excel,Technology,57099
+57,Male,Bachelors,Self-employed,57,Single,Teacher,Public Speaking,Technology,70800
+62,Female,Bachelors,Unemployed,50,Divorced,Salesperson,C++,Business,76333
+18,Male,PhD,Private,59,Divorced,Teacher,Python,Technology,104506
+33,Male,Diploma,Self-employed,45,Single,Artist,Excel,Science,48946
+56,Female,PhD,Freelancer,48,Divorced,Doctor,Public Speaking,Health,200382
+22,Male,PhD,Self-employed,22,Single,Artist,C++,Health,101900
+39,Male,Bachelors,Unemployed,33,Married,Salesperson,Python,Education,67263
+46,Female,PhD,Self-employed,44,Widowed,Artist,Public Speaking,Technology,104299
+20,Female,Bachelors,Private,20,Married,Teacher,Communication,Science,65847
+29,Female,High School,Private,22,Married,Engineer,Data Analysis,Business,55432
+43,Male,Diploma,Freelancer,45,Single,Teacher,Data Analysis,Business,45183
+33,Female,PhD,Government,37,Divorced,Manager,C++,Art,161801
+54,Male,Bachelors,Unemployed,28,Married,Artist,C++,Education,56973
+39,Female,Masters,Unemployed,57,Married,Technician,Public Speaking,Science,99569
+46,Male,PhD,Government,42,Married,Artist,Python,Science,90766
+31,Female,High School,Private,40,Divorced,Doctor,Data Analysis,Business,84055
+45,Female,High School,Private,20,Divorced,Salesperson,C++,Art,40032
+22,Female,Masters,Self-employed,40,Single,Technician,Excel,Business,74789
+64,Female,Bachelors,Freelancer,46,Married,Teacher,C++,Art,54857
+47,Male,PhD,Freelancer,25,Widowed,Doctor,Data Analysis,Health,181737
+63,Female,Bachelors,Freelancer,55,Divorced,Artist,Leadership,Science,50105
+22,Female,High School,Self-employed,47,Single,Teacher,Data Analysis,Health,40642
+29,Male,Bachelors,Freelancer,36,Married,Teacher,Excel,Business,51320
+33,Female,High School,Government,59,Widowed,Manager,Python,Education,64260
+43,Male,Bachelors,Self-employed,22,Divorced,Manager,Excel,Technology,116378
+43,Female,Masters,Government,31,Widowed,Engineer,Leadership,Education,113669
+38,Female,Diploma,Self-employed,58,Divorced,Manager,Leadership,Education,74312
+56,Female,Masters,Freelancer,31,Single,Salesperson,C++,Technology,79450
+53,Male,Masters,Government,21,Widowed,Technician,C++,Science,91534
+50,Female,Diploma,Government,41,Married,Teacher,Data Analysis,Health,48315
+47,Female,Diploma,Government,42,Married,Manager,Communication,Health,79446
+54,Female,PhD,Self-employed,49,Divorced,Engineer,Excel,Science,135528
+40,Male,PhD,Unemployed,24,Married,Artist,Data Analysis,Technology,104574
+27,Male,Masters,Freelancer,28,Widowed,Technician,Communication,Art,93026
+22,Female,Masters,Government,40,Single,Manager,Data Analysis,Education,145558
+53,Male,High School,Unemployed,30,Divorced,Teacher,Leadership,Business,45707
+51,Female,High School,Freelancer,24,Widowed,Artist,C++,Health,39824
+48,Female,PhD,Freelancer,54,Divorced,Salesperson,C++,Science,104736
+27,Female,PhD,Government,46,Single,Teacher,Data Analysis,Business,80235
+36,Female,High School,Government,21,Divorced,Artist,C++,Technology,33865
+49,Female,High School,Self-employed,43,Married,Salesperson,Python,Business,48461
+18,Female,Bachelors,Unemployed,50,Married,Salesperson,Data Analysis,Business,75331
+22,Female,Bachelors,Unemployed,52,Divorced,Technician,Leadership,Education,85058
+62,Male,High School,Government,58,Single,Teacher,Public Speaking,Technology,38704
+21,Male,Bachelors,Freelancer,49,Single,Manager,Data Analysis,Business,118692
+33,Male,Diploma,Government,56,Married,Manager,Data Analysis,Health,91660
+41,Male,PhD,Freelancer,47,Single,Engineer,C++,Technology,145782
+33,Male,PhD,Freelancer,50,Divorced,Artist,Leadership,Health,79939
+19,Male,High School,Government,30,Widowed,Engineer,Data Analysis,Science,49715
+45,Male,Masters,Private,42,Divorced,Doctor,C++,Science,146150
+49,Female,High School,Unemployed,21,Married,Manager,Excel,Art,58435
+44,Female,Bachelors,Freelancer,59,Married,Artist,Leadership,Science,50460
+37,Female,Masters,Freelancer,46,Married,Technician,Communication,Business,96449
+41,Female,Bachelors,Private,54,Single,Engineer,Python,Technology,80785
+29,Male,Diploma,Self-employed,21,Divorced,Technician,Communication,Science,51961
+52,Male,Bachelors,Private,58,Widowed,Technician,Public Speaking,Health,71060
+50,Female,Diploma,Private,56,Divorced,Technician,Leadership,Business,51063
+50,Female,Diploma,Freelancer,40,Widowed,Engineer,Data Analysis,Science,73423
+60,Male,Bachelors,Unemployed,24,Divorced,Doctor,C++,Education,97294
+54,Female,Bachelors,Private,40,Married,Salesperson,Public Speaking,Health,63202
+29,Female,Diploma,Self-employed,48,Widowed,Salesperson,Leadership,Health,56416
+20,Female,Masters,Government,39,Divorced,Engineer,Python,Art,85138
+18,Female,Diploma,Private,57,Single,Salesperson,Leadership,Education,58140
+50,Male,PhD,Private,39,Single,Teacher,Public Speaking,Art,85427
+57,Female,Diploma,Self-employed,44,Divorced,Salesperson,C++,Science,54157
+27,Female,Masters,Unemployed,21,Married,Manager,Communication,Education,110715
+60,Male,PhD,Private,51,Widowed,Engineer,Excel,Health,133229
+61,Male,High School,Private,45,Divorced,Salesperson,Communication,Art,38925
+46,Female,High School,Unemployed,25,Single,Engineer,C++,Business,52121
+30,Male,Masters,Self-employed,22,Widowed,Doctor,Public Speaking,Education,165673
+29,Female,Diploma,Private,52,Single,Teacher,C++,Health,47582
+48,Female,Bachelors,Unemployed,20,Single,Engineer,Python,Technology,92467
+63,Male,Masters,Private,24,Divorced,Manager,Leadership,Education,152923
+19,Female,PhD,Government,32,Single,Salesperson,Leadership,Education,99099
+52,Female,PhD,Freelancer,38,Widowed,Manager,Communication,Science,149897
+40,Female,High School,Government,31,Married,Salesperson,Public Speaking,Business,35541
+34,Female,PhD,Private,44,Divorced,Engineer,Excel,Science,142207
+43,Male,Masters,Self-employed,54,Widowed,Technician,Excel,Education,107996
+25,Male,PhD,Freelancer,31,Divorced,Salesperson,Python,Education,103398
+46,Female,Masters,Government,49,Single,Technician,C++,Business,95405
+43,Male,Bachelors,Unemployed,24,Single,Teacher,Python,Business,66749
+27,Female,High School,Self-employed,53,Widowed,Manager,Leadership,Art,76370
+43,Female,PhD,Government,41,Widowed,Technician,Data Analysis,Health,132203
+51,Female,Masters,Unemployed,58,Married,Manager,Data Analysis,Health,159279
+58,Female,Diploma,Private,32,Widowed,Salesperson,Data Analysis,Art,48385
+24,Female,High School,Unemployed,22,Widowed,Salesperson,C++,Health,35558
+21,Male,Bachelors,Government,39,Divorced,Teacher,Python,Education,51657
+62,Female,Masters,Government,50,Single,Salesperson,Public Speaking,Art,70165
+28,Male,Bachelors,Private,24,Widowed,Teacher,Communication,Art,64067
+46,Male,Bachelors,Unemployed,43,Married,Technician,Leadership,Health,73842
+53,Female,PhD,Unemployed,59,Widowed,Salesperson,Data Analysis,Technology,97590
+42,Female,PhD,Private,52,Single,Engineer,Public Speaking,Health,151170
+38,Female,Masters,Unemployed,27,Widowed,Artist,Excel,Science,74706
+53,Female,Diploma,Private,43,Divorced,Doctor,Python,Technology,86711
+27,Female,Masters,Self-employed,39,Single,Artist,Leadership,Art,70395
+54,Male,Diploma,Government,35,Widowed,Artist,Leadership,Technology,49462
+26,Female,Bachelors,Self-employed,31,Divorced,Manager,Excel,Education,91347
+41,Female,High School,Freelancer,32,Single,Teacher,Excel,Business,45108
+52,Male,Masters,Freelancer,58,Widowed,Manager,Excel,Technology,160094
+52,Male,Masters,Freelancer,44,Divorced,Technician,Data Analysis,Science,75891
+53,Female,Diploma,Private,51,Married,Doctor,Data Analysis,Business,81027
+35,Male,Bachelors,Unemployed,43,Divorced,Technician,Python,Education,66584
+56,Female,Bachelors,Self-employed,28,Married,Engineer,Excel,Science,89958
+49,Male,Diploma,Self-employed,59,Widowed,Doctor,Communication,Business,118326
+41,Male,Bachelors,Self-employed,42,Divorced,Manager,Leadership,Education,103535
+40,Female,PhD,Self-employed,32,Married,Salesperson,Excel,Business,119460
+49,Male,High School,Freelancer,51,Single,Salesperson,Leadership,Business,36537
+54,Male,Masters,Self-employed,34,Divorced,Manager,C++,Health,145293
+29,Male,High School,Unemployed,55,Widowed,Technician,Public Speaking,Science,50443
+30,Male,Masters,Freelancer,24,Single,Manager,C++,Science,113502
+40,Male,PhD,Self-employed,41,Married,Manager,Excel,Technology,199618
+42,Male,Bachelors,Private,35,Divorced,Artist,Leadership,Science,61566
+52,Female,Diploma,Government,29,Divorced,Engineer,Public Speaking,Science,72811
+58,Female,PhD,Government,43,Widowed,Salesperson,C++,Business,93326
+47,Male,High School,Government,37,Single,Artist,Excel,Art,42967
+34,Female,Diploma,Freelancer,37,Divorced,Manager,Leadership,Health,100174
+37,Female,Bachelors,Self-employed,26,Divorced,Teacher,Excel,Technology,56332
+42,Female,PhD,Freelancer,23,Single,Artist,Data Analysis,Health,87421
+39,Male,Diploma,Unemployed,45,Divorced,Manager,Leadership,Technology,85340
+30,Female,PhD,Private,24,Single,Salesperson,C++,Education,110262
+36,Male,PhD,Private,35,Single,Manager,Excel,Business,168568
+53,Female,Bachelors,Government,54,Single,Engineer,C++,Science,95745
+29,Male,Masters,Government,45,Widowed,Technician,Excel,Science,101603
+58,Male,Diploma,Government,37,Single,Doctor,Python,Art,84221
+36,Female,Bachelors,Self-employed,48,Single,Artist,C++,Health,63953
+29,Female,PhD,Unemployed,42,Married,Artist,C++,Health,94881
+26,Male,Bachelors,Unemployed,33,Married,Artist,Communication,Health,61100
+24,Female,Masters,Unemployed,34,Widowed,Manager,Public Speaking,Science,146194
+45,Female,Diploma,Unemployed,52,Single,Engineer,Data Analysis,Health,68193
+31,Female,Masters,Government,44,Married,Manager,C++,Business,147624
+48,Male,High School,Private,40,Married,Manager,Leadership,Technology,85405
+36,Male,Diploma,Government,36,Divorced,Technician,Public Speaking,Science,54481
+64,Female,Masters,Unemployed,42,Single,Teacher,Excel,Business,84245
+33,Female,PhD,Government,36,Married,Engineer,Python,Education,142137
+22,Female,Diploma,Unemployed,33,Widowed,Artist,Leadership,Business,44702
+52,Male,Diploma,Freelancer,48,Divorced,Doctor,Public Speaking,Business,97422
+29,Male,Bachelors,Private,39,Divorced,Artist,Leadership,Education,58990
+42,Female,PhD,Freelancer,49,Single,Manager,Leadership,Business,163324
+38,Female,High School,Self-employed,38,Single,Engineer,Leadership,Technology,63878
+53,Female,Masters,Government,58,Divorced,Salesperson,Public Speaking,Science,93414
+40,Female,Bachelors,Self-employed,32,Widowed,Engineer,Python,Art,70111
+33,Female,Masters,Government,37,Single,Engineer,Communication,Education,121028
+56,Female,High School,Freelancer,42,Single,Teacher,Data Analysis,Science,35901
+62,Male,High School,Unemployed,52,Divorced,Artist,C++,Health,35491
+59,Female,Diploma,Unemployed,58,Divorced,Teacher,Public Speaking,Technology,52206
+56,Male,High School,Government,59,Single,Salesperson,Leadership,Art,41870
+31,Female,Masters,Unemployed,37,Married,Salesperson,C++,Technology,66947
+48,Female,PhD,Freelancer,28,Single,Technician,Public Speaking,Technology,136845
+22,Male,PhD,Unemployed,52,Married,Doctor,C++,Health,174547
+52,Male,Diploma,Freelancer,51,Divorced,Technician,Leadership,Art,53090
+40,Male,Masters,Self-employed,36,Married,Manager,Communication,Technology,151082
+46,Male,Masters,Freelancer,38,Widowed,Teacher,Public Speaking,Health,70210
+60,Female,High School,Private,46,Divorced,Teacher,C++,Education,46085
+28,Male,Masters,Private,25,Single,Technician,Excel,Health,97242
+35,Female,Bachelors,Private,54,Single,Manager,C++,Business,98334
+64,Male,High School,Government,56,Divorced,Engineer,Data Analysis,Science,45027
+29,Female,Bachelors,Government,53,Divorced,Manager,Leadership,Health,127356
+26,Female,Diploma,Government,39,Widowed,Artist,Python,Health,37541
+27,Female,PhD,Freelancer,44,Divorced,Technician,C++,Health,130563
+61,Female,Diploma,Government,23,Single,Manager,Communication,Technology,89588
+34,Female,PhD,Self-employed,29,Widowed,Engineer,Excel,Art,154457
+55,Female,Diploma,Private,29,Single,Manager,Excel,Health,96861
+24,Male,Masters,Freelancer,43,Married,Teacher,Python,Health,79377
+63,Female,Bachelors,Private,40,Divorced,Doctor,Data Analysis,Business,119559
+30,Male,PhD,Government,30,Married,Teacher,Python,Business,111717
+57,Male,High School,Freelancer,46,Single,Salesperson,Data Analysis,Education,36837
+59,Female,Bachelors,Unemployed,35,Married,Doctor,C++,Education,106636
+26,Male,High School,Self-employed,45,Married,Salesperson,Leadership,Business,47375
+44,Female,Bachelors,Government,49,Single,Manager,Communication,Art,99628
+19,Male,Bachelors,Government,35,Single,Artist,Excel,Education,55761
+22,Female,Diploma,Self-employed,26,Divorced,Manager,Python,Science,89037
+46,Male,PhD,Self-employed,35,Married,Engineer,Communication,Science,141731
+54,Female,PhD,Unemployed,54,Widowed,Manager,Data Analysis,Art,174636
+55,Female,Bachelors,Government,35,Widowed,Doctor,Leadership,Business,131804
+36,Female,Masters,Government,59,Single,Teacher,Excel,Education,69923
+25,Female,Masters,Private,31,Single,Artist,Excel,Health,72977
+62,Male,High School,Freelancer,54,Married,Salesperson,Data Analysis,Business,39968
+18,Female,High School,Freelancer,40,Single,Manager,Leadership,Education,64840
+39,Male,Diploma,Private,55,Widowed,Manager,Excel,Art,76343
+34,Male,Bachelors,Freelancer,36,Divorced,Teacher,Leadership,Science,52622
+24,Male,High School,Self-employed,51,Divorced,Artist,Excel,Art,30521
+42,Female,High School,Freelancer,25,Married,Technician,C++,Education,48688
+62,Male,Bachelors,Freelancer,43,Divorced,Salesperson,Data Analysis,Art,72921
+21,Male,Diploma,Private,46,Single,Manager,Leadership,Education,78665
+53,Male,High School,Unemployed,39,Single,Manager,Communication,Education,63831
+23,Female,Diploma,Freelancer,44,Single,Technician,C++,Art,59620
+48,Female,PhD,Freelancer,21,Single,Salesperson,Public Speaking,Technology,119881
+36,Male,Diploma,Unemployed,28,Married,Doctor,Communication,Health,119064
+61,Female,Masters,Private,47,Divorced,Doctor,Data Analysis,Business,151478
+56,Female,Masters,Unemployed,57,Widowed,Engineer,Excel,Science,95885
+44,Male,Diploma,Private,22,Divorced,Teacher,Public Speaking,Health,42010
+27,Male,Masters,Self-employed,39,Single,Artist,Communication,Business,59241
+43,Female,PhD,Private,25,Widowed,Manager,C++,Business,160378
+36,Male,Bachelors,Self-employed,58,Married,Salesperson,Public Speaking,Science,57537
+56,Female,Masters,Self-employed,52,Single,Manager,Public Speaking,Health,108764
+20,Female,Masters,Private,20,Single,Engineer,Leadership,Science,106433
+62,Female,Diploma,Government,56,Widowed,Salesperson,Python,Education,50034
+30,Female,PhD,Private,25,Married,Salesperson,Communication,Science,130868
+45,Female,Bachelors,Freelancer,53,Widowed,Manager,Python,Art,110305
+37,Female,Diploma,Freelancer,34,Married,Teacher,Data Analysis,Technology,53948
+45,Male,Diploma,Government,45,Single,Engineer,Communication,Technology,59535
+25,Male,PhD,Self-employed,33,Divorced,Teacher,Communication,Technology,114738
+58,Female,Bachelors,Government,26,Single,Engineer,Leadership,Health,83693
+56,Female,PhD,Freelancer,50,Divorced,Manager,Excel,Health,206835
+18,Female,Bachelors,Government,43,Divorced,Engineer,C++,Education,86488
+20,Male,PhD,Private,50,Married,Doctor,C++,Technology,197551
+30,Female,Diploma,Government,48,Widowed,Salesperson,C++,Education,53690
+45,Male,Diploma,Self-employed,51,Married,Artist,Data Analysis,Technology,39318
+42,Female,High School,Private,36,Single,Manager,Public Speaking,Health,59079
+50,Female,Masters,Unemployed,33,Widowed,Technician,Excel,Art,105878
+55,Male,PhD,Freelancer,59,Divorced,Artist,Python,Art,89198
+23,Male,High School,Freelancer,55,Divorced,Manager,C++,Art,81276
+61,Female,Masters,Government,43,Single,Artist,Python,Science,64819
+62,Female,PhD,Private,46,Widowed,Doctor,Excel,Art,165926
+49,Female,Bachelors,Unemployed,44,Single,Artist,Data Analysis,Business,56796
+62,Male,Masters,Private,51,Single,Engineer,Excel,Technology,86251
+64,Male,Diploma,Freelancer,37,Married,Artist,Leadership,Art,38685
+38,Male,High School,Private,37,Single,Manager,Public Speaking,Business,73809
+33,Male,Masters,Unemployed,56,Widowed,Technician,C++,Business,82938
+38,Male,Masters,Government,45,Single,Technician,Data Analysis,Business,107781
+28,Male,Diploma,Self-employed,28,Widowed,Teacher,Leadership,Education,42369
+54,Female,PhD,Private,54,Divorced,Salesperson,C++,Education,121635
+53,Female,Bachelors,Self-employed,27,Single,Artist,Excel,Business,56296
+52,Male,Diploma,Freelancer,39,Widowed,Technician,Excel,Science,66977
+36,Female,Bachelors,Government,41,Divorced,Artist,Communication,Art,48074
+37,Female,PhD,Government,38,Widowed,Salesperson,Communication,Technology,110993
+35,Male,Masters,Private,49,Divorced,Technician,Excel,Science,88218
+64,Female,Bachelors,Government,47,Married,Salesperson,Excel,Health,64487
+58,Male,High School,Private,54,Single,Artist,Python,Education,41186
+31,Male,High School,Private,30,Single,Manager,Public Speaking,Art,86112
+32,Female,Diploma,Self-employed,50,Divorced,Artist,Python,Art,41496
+48,Male,PhD,Government,58,Married,Salesperson,Public Speaking,Health,115325
+18,Male,Diploma,Private,55,Widowed,Manager,Leadership,Health,93946
+20,Male,Diploma,Self-employed,49,Married,Manager,Communication,Art,98643
+33,Male,Diploma,Unemployed,42,Widowed,Teacher,Communication,Health,58951
+40,Male,High School,Self-employed,38,Widowed,Technician,Excel,Art,42389
+28,Male,High School,Self-employed,31,Single,Engineer,Excel,Science,49526
+29,Male,Diploma,Private,34,Divorced,Manager,Leadership,Health,95775
+27,Male,High School,Freelancer,50,Single,Salesperson,Data Analysis,Science,37964
+49,Female,PhD,Freelancer,56,Single,Technician,Data Analysis,Science,104343
+33,Female,Diploma,Freelancer,56,Single,Doctor,Data Analysis,Health,83002
+25,Female,High School,Self-employed,34,Widowed,Artist,Communication,Art,28838
+55,Male,Bachelors,Private,48,Single,Salesperson,Python,Business,64693
+29,Male,Diploma,Government,45,Widowed,Doctor,Data Analysis,Art,103752
+41,Female,Diploma,Self-employed,21,Divorced,Salesperson,C++,Technology,50407
+45,Female,PhD,Self-employed,39,Widowed,Artist,Leadership,Health,80333
+25,Female,Masters,Private,34,Widowed,Teacher,Data Analysis,Education,81208
+45,Male,Masters,Unemployed,23,Married,Salesperson,C++,Health,89198
+53,Female,PhD,Self-employed,41,Single,Manager,Data Analysis,Technology,176690
+43,Female,PhD,Unemployed,57,Single,Engineer,Python,Science,150493
+25,Male,PhD,Unemployed,42,Single,Manager,Python,Education,210521
+45,Female,Masters,Freelancer,45,Single,Artist,Data Analysis,Education,75271
+45,Male,PhD,Private,30,Married,Salesperson,C++,Art,115502
+54,Male,High School,Unemployed,47,Married,Engineer,Leadership,Business,59610
+58,Male,Diploma,Private,21,Married,Manager,C++,Art,105612
+53,Female,Diploma,Freelancer,27,Married,Engineer,Leadership,Education,67903
+44,Female,Bachelors,Private,48,Single,Artist,Data Analysis,Education,54962
+34,Male,Bachelors,Self-employed,30,Widowed,Teacher,Leadership,Business,63543
+26,Female,Diploma,Unemployed,56,Divorced,Teacher,Excel,Health,58168
+50,Female,High School,Private,37,Married,Salesperson,Communication,Business,49748
+37,Female,Masters,Government,33,Widowed,Manager,Public Speaking,Science,111856
+30,Female,Masters,Private,29,Married,Doctor,Communication,Art,129955
+45,Male,High School,Unemployed,54,Single,Artist,Python,Health,33229
+46,Female,Masters,Freelancer,28,Single,Manager,Excel,Art,148443
+30,Male,PhD,Freelancer,54,Widowed,Manager,Communication,Business,184982
+63,Male,Diploma,Unemployed,30,Widowed,Teacher,Data Analysis,Health,45772
+52,Female,Diploma,Self-employed,31,Widowed,Salesperson,Leadership,Business,46735
+23,Male,High School,Self-employed,22,Single,Engineer,Leadership,Science,60226
+35,Female,Masters,Freelancer,58,Single,Artist,C++,Technology,72892
+22,Female,Bachelors,Freelancer,33,Divorced,Engineer,C++,Education,98873
+64,Male,Bachelors,Unemployed,47,Widowed,Technician,Leadership,Health,72013
+42,Male,Masters,Self-employed,30,Divorced,Technician,Data Analysis,Education,89776
+19,Male,Bachelors,Freelancer,58,Married,Artist,Leadership,Technology,44937
+27,Male,High School,Self-employed,44,Divorced,Salesperson,C++,Health,35901
+47,Female,High School,Freelancer,40,Married,Doctor,Communication,Education,77824
+62,Female,Masters,Private,29,Married,Technician,Python,Education,83603
+22,Female,Bachelors,Government,34,Divorced,Teacher,C++,Health,54008
+50,Male,High School,Private,38,Widowed,Doctor,Data Analysis,Education,66922
+18,Male,High School,Freelancer,41,Married,Manager,Communication,Education,85303
+35,Male,PhD,Government,40,Widowed,Technician,Communication,Health,136126
+49,Female,PhD,Government,51,Single,Teacher,Communication,Education,103007
+64,Male,High School,Freelancer,42,Married,Manager,Excel,Education,84982
+28,Female,Masters,Freelancer,32,Single,Doctor,Excel,Art,179974
+38,Male,Diploma,Self-employed,24,Divorced,Artist,Public Speaking,Science,48101
+43,Female,Diploma,Freelancer,23,Widowed,Manager,Communication,Art,81702
+42,Female,High School,Unemployed,47,Divorced,Engineer,Data Analysis,Technology,45701
+39,Male,High School,Freelancer,33,Married,Artist,Leadership,Art,39690
+44,Male,High School,Unemployed,27,Single,Artist,Data Analysis,Art,35575
+30,Female,Masters,Freelancer,28,Married,Doctor,Excel,Technology,159090
+50,Female,PhD,Self-employed,54,Divorced,Doctor,C++,Education,233285
+51,Male,High School,Unemployed,56,Widowed,Teacher,Public Speaking,Education,34903
+58,Male,High School,Private,40,Widowed,Teacher,Excel,Art,41365
+52,Female,Bachelors,Unemployed,37,Married,Engineer,Leadership,Technology,88528
+18,Male,Masters,Self-employed,52,Married,Artist,Python,Education,67276
+38,Female,High School,Unemployed,27,Single,Salesperson,Public Speaking,Business,36805
+23,Female,Bachelors,Freelancer,36,Divorced,Engineer,Excel,Health,78891
+45,Male,Diploma,Freelancer,50,Married,Engineer,Data Analysis,Health,65332
+34,Male,High School,Self-employed,53,Single,Salesperson,Public Speaking,Science,46994
+22,Male,High School,Government,25,Married,Salesperson,Data Analysis,Health,50296
+48,Male,Bachelors,Freelancer,41,Widowed,Salesperson,Communication,Art,61506
+22,Male,Masters,Private,33,Single,Doctor,Communication,Health,161620
+55,Female,High School,Self-employed,22,Single,Engineer,Communication,Health,51256
+20,Female,Diploma,Unemployed,31,Married,Engineer,Public Speaking,Business,82465
+40,Male,High School,Unemployed,55,Divorced,Manager,Python,Education,81030
+54,Male,Diploma,Private,31,Widowed,Salesperson,Leadership,Business,56102
+54,Male,PhD,Freelancer,21,Divorced,Salesperson,Public Speaking,Art,108012
+27,Female,PhD,Self-employed,21,Single,Teacher,C++,Health,92580
+27,Male,Diploma,Private,34,Divorced,Teacher,Data Analysis,Education,46465
+36,Male,Masters,Freelancer,42,Single,Artist,Data Analysis,Science,80194
+34,Female,High School,Self-employed,48,Divorced,Teacher,Public Speaking,Science,38466
+38,Female,High School,Unemployed,36,Married,Technician,Public Speaking,Health,48280
+31,Male,PhD,Self-employed,51,Divorced,Artist,Leadership,Health,107572
+26,Male,Diploma,Government,26,Single,Salesperson,Python,Science,58468
+63,Male,High School,Self-employed,49,Widowed,Manager,Public Speaking,Science,73226
+18,Female,High School,Government,47,Widowed,Teacher,Communication,Art,38611
+62,Male,Masters,Self-employed,33,Widowed,Manager,Leadership,Health,118129
+30,Male,Bachelors,Government,49,Single,Teacher,C++,Science,56682
+21,Male,PhD,Unemployed,36,Divorced,Teacher,Communication,Technology,110257
+18,Female,PhD,Freelancer,51,Widowed,Manager,C++,Science,189029
+57,Female,Bachelors,Government,25,Widowed,Engineer,Excel,Education,92735
+49,Male,High School,Government,43,Widowed,Engineer,C++,Education,49359
+51,Male,Masters,Unemployed,25,Married,Engineer,Communication,Technology,107067
+45,Female,Masters,Government,46,Single,Technician,Excel,Art,105396
+48,Female,PhD,Private,37,Single,Engineer,Communication,Health,136534
+25,Female,Masters,Unemployed,43,Single,Teacher,Data Analysis,Health,80947
+56,Female,Bachelors,Private,56,Single,Salesperson,Communication,Science,56005
+43,Female,High School,Unemployed,43,Single,Doctor,Excel,Education,95140
+51,Female,Bachelors,Government,57,Married,Manager,C++,Art,112703
+20,Female,Diploma,Private,53,Divorced,Salesperson,Data Analysis,Art,49264
+29,Female,PhD,Government,59,Married,Doctor,Python,Art,172670
+18,Female,Masters,Unemployed,34,Widowed,Salesperson,Python,Science,84177
+61,Male,Diploma,Government,30,Married,Technician,Python,Health,61254
+22,Male,Masters,Private,41,Single,Doctor,Python,Art,125592
+47,Male,High School,Private,43,Married,Artist,Leadership,Science,43088
+47,Female,High School,Government,20,Single,Engineer,Python,Science,65249
+34,Male,High School,Self-employed,37,Married,Technician,Excel,Technology,47259
+64,Female,Masters,Unemployed,31,Single,Salesperson,Public Speaking,Business,69876
+40,Female,Diploma,Unemployed,47,Widowed,Teacher,Python,Art,56642
+32,Male,High School,Government,59,Single,Engineer,Communication,Business,55963
+54,Female,Diploma,Self-employed,26,Married,Engineer,Public Speaking,Health,76064
+38,Male,Masters,Private,42,Widowed,Doctor,Python,Science,150532
+31,Male,Diploma,Freelancer,40,Married,Artist,Public Speaking,Art,40921
+19,Male,Masters,Freelancer,53,Widowed,Engineer,C++,Education,119058
+28,Female,Masters,Government,30,Divorced,Salesperson,Excel,Health,98348
+56,Male,PhD,Self-employed,41,Divorced,Salesperson,Excel,Technology,98724
+55,Female,Masters,Self-employed,54,Divorced,Manager,Public Speaking,Technology,137768
+51,Male,Masters,Unemployed,48,Married,Manager,Data Analysis,Business,128713
+55,Male,Bachelors,Private,47,Married,Engineer,Leadership,Science,98174
+51,Male,High School,Self-employed,37,Widowed,Doctor,Communication,Business,80263
+35,Female,PhD,Freelancer,33,Widowed,Doctor,Public Speaking,Education,230346
+47,Female,PhD,Private,37,Widowed,Teacher,Excel,Education,114561
+32,Female,PhD,Private,47,Widowed,Technician,C++,Technology,109259
+44,Male,Bachelors,Government,43,Single,Technician,Python,Art,80352
+51,Male,Masters,Self-employed,27,Divorced,Technician,Excel,Technology,86937
+55,Female,High School,Government,27,Single,Artist,C++,Technology,42253
+50,Female,Diploma,Self-employed,23,Single,Doctor,Python,Education,100309
+41,Female,Masters,Unemployed,46,Single,Teacher,Leadership,Business,84616
+32,Female,Bachelors,Government,55,Single,Manager,Excel,Education,98618
+47,Female,Masters,Government,24,Divorced,Salesperson,Excel,Science,75852
+59,Female,Masters,Freelancer,52,Single,Technician,Public Speaking,Education,93129
+34,Male,Bachelors,Government,53,Widowed,Manager,Public Speaking,Education,129552
+22,Female,PhD,Self-employed,49,Married,Manager,C++,Technology,179254
+46,Male,PhD,Freelancer,27,Widowed,Engineer,Data Analysis,Art,120321
+21,Male,High School,Government,58,Married,Artist,Public Speaking,Technology,36555
+27,Female,High School,Government,45,Widowed,Teacher,Communication,Health,37521
+34,Female,PhD,Unemployed,56,Widowed,Artist,Leadership,Education,91869
+27,Male,Diploma,Government,53,Married,Engineer,Communication,Education,71216
+34,Female,Masters,Private,26,Divorced,Teacher,Excel,Health,73660
+37,Female,Diploma,Freelancer,59,Single,Teacher,Communication,Education,46435
+41,Male,Masters,Private,47,Widowed,Doctor,Python,Education,131319
+22,Male,PhD,Freelancer,58,Divorced,Artist,Leadership,Science,97109
+51,Male,High School,Unemployed,58,Single,Artist,Communication,Education,37033
+23,Female,High School,Government,47,Divorced,Doctor,Python,Health,71473
+19,Male,Diploma,Government,33,Divorced,Manager,C++,Technology,99919
+30,Female,High School,Government,57,Single,Engineer,Communication,Education,45777
+60,Male,PhD,Freelancer,23,Widowed,Artist,Leadership,Art,98809
+60,Male,Diploma,Government,37,Divorced,Doctor,Python,Health,108209
+28,Male,Masters,Private,44,Widowed,Salesperson,Communication,Business,92776
+64,Female,High School,Government,26,Widowed,Teacher,C++,Science,38177
+40,Female,Bachelors,Unemployed,57,Widowed,Technician,Communication,Health,76714
+33,Male,High School,Private,47,Single,Salesperson,Python,Technology,49645
+48,Male,Masters,Government,24,Married,Doctor,Communication,Health,178849
+28,Male,Diploma,Government,22,Widowed,Technician,Leadership,Business,59887
+33,Female,Masters,Self-employed,50,Married,Manager,Excel,Science,109999
+25,Male,Bachelors,Freelancer,39,Married,Engineer,Python,Art,84076
+21,Female,PhD,Private,38,Divorced,Technician,Python,Business,124328
+57,Male,High School,Self-employed,30,Widowed,Manager,Python,Health,82647
+21,Male,Diploma,Unemployed,59,Widowed,Technician,Python,Business,68980
+42,Male,PhD,Freelancer,22,Widowed,Teacher,Communication,Health,97612
+20,Male,Masters,Private,42,Married,Teacher,Leadership,Art,75778
+49,Male,Diploma,Government,26,Single,Teacher,C++,Art,49138
+20,Male,PhD,Private,42,Married,Teacher,Leadership,Technology,108897
+44,Female,Diploma,Government,26,Widowed,Doctor,Python,Art,96399
+46,Male,Bachelors,Freelancer,53,Widowed,Teacher,Data Analysis,Education,63714
+49,Female,Bachelors,Government,38,Widowed,Salesperson,Communication,Business,56875
+36,Male,High School,Unemployed,28,Married,Teacher,Data Analysis,Business,39511
+38,Male,High School,Government,37,Widowed,Salesperson,Communication,Health,52257
+22,Female,Bachelors,Unemployed,44,Divorced,Doctor,Python,Art,112250
+35,Male,Diploma,Freelancer,33,Widowed,Teacher,Communication,Technology,53854
+45,Female,Bachelors,Freelancer,44,Single,Manager,Python,Technology,114472
+59,Female,High School,Private,38,Divorced,Manager,Leadership,Technology,82130
+39,Male,Bachelors,Unemployed,58,Widowed,Artist,Public Speaking,Science,61610
+38,Female,Bachelors,Unemployed,34,Divorced,Manager,Excel,Education,123523
+23,Female,Diploma,Self-employed,35,Widowed,Engineer,Communication,Art,66640
+18,Male,PhD,Self-employed,46,Single,Engineer,Python,Technology,129733
+22,Female,High School,Self-employed,59,Widowed,Engineer,Data Analysis,Education,60899
+58,Male,Diploma,Government,29,Divorced,Doctor,Python,Business,110376
+29,Male,Bachelors,Self-employed,23,Single,Manager,Data Analysis,Health,124086
+43,Male,Bachelors,Unemployed,38,Married,Salesperson,Communication,Art,53747
+63,Male,PhD,Government,47,Single,Engineer,C++,Art,115831
+51,Female,High School,Freelancer,40,Single,Artist,Data Analysis,Science,37888
+31,Male,High School,Private,33,Single,Doctor,Python,Business,93469
+43,Male,Masters,Self-employed,52,Divorced,Artist,Communication,Art,80930
+62,Female,High School,Freelancer,29,Single,Manager,Python,Science,79106
+44,Male,PhD,Unemployed,38,Widowed,Teacher,C++,Science,97358
+26,Male,Masters,Private,49,Single,Artist,Excel,Science,56657
+43,Female,Masters,Freelancer,41,Single,Teacher,Public Speaking,Art,79012
+64,Female,Bachelors,Private,22,Widowed,Doctor,Public Speaking,Art,137883
+39,Female,Bachelors,Self-employed,56,Widowed,Artist,C++,Art,52783
+64,Female,High School,Unemployed,37,Married,Artist,Leadership,Education,38793
+47,Female,Masters,Private,30,Single,Technician,Communication,Science,104523
+60,Female,Bachelors,Freelancer,21,Divorced,Doctor,C++,Education,98207
+34,Female,PhD,Self-employed,31,Single,Doctor,Excel,Health,223691
+43,Male,Bachelors,Self-employed,25,Single,Engineer,Python,Art,77057
+53,Female,Bachelors,Freelancer,59,Widowed,Manager,Communication,Business,102593
+18,Female,Masters,Freelancer,48,Married,Artist,Data Analysis,Technology,57930
+25,Female,Masters,Private,49,Single,Artist,C++,Health,68341
+52,Male,Diploma,Government,21,Divorced,Salesperson,Excel,Technology,56450
+32,Male,PhD,Self-employed,28,Single,Doctor,C++,Technology,223401
+64,Female,Masters,Private,21,Divorced,Doctor,Leadership,Art,130199
+39,Female,High School,Freelancer,48,Widowed,Manager,Public Speaking,Business,59874
+31,Female,PhD,Private,52,Married,Doctor,Public Speaking,Technology,229667
+43,Male,PhD,Freelancer,29,Single,Teacher,Communication,Science,104788
+45,Male,Masters,Unemployed,53,Married,Teacher,Python,Technology,67224
+40,Female,PhD,Freelancer,27,Single,Technician,Excel,Health,139815
+31,Male,Masters,Freelancer,56,Divorced,Teacher,C++,Business,64293
+41,Female,Bachelors,Freelancer,52,Married,Teacher,Communication,Business,59067
+19,Male,Diploma,Government,25,Single,Manager,C++,Technology,81143
+62,Male,Bachelors,Freelancer,59,Widowed,Artist,Communication,Business,48715
+43,Female,Masters,Self-employed,38,Divorced,Teacher,Public Speaking,Health,60281
+31,Female,Masters,Self-employed,51,Married,Technician,Leadership,Health,100966
+24,Female,Bachelors,Private,46,Single,Doctor,C++,Health,139258
+20,Female,High School,Government,20,Married,Teacher,Leadership,Science,42841
+64,Male,High School,Private,52,Single,Technician,Data Analysis,Art,41433
+40,Male,High School,Self-employed,59,Divorced,Manager,Data Analysis,Technology,70321
+63,Male,Masters,Self-employed,51,Widowed,Salesperson,Public Speaking,Business,77403
+60,Female,PhD,Unemployed,24,Divorced,Salesperson,Excel,Health,113853
+64,Male,Masters,Freelancer,36,Married,Salesperson,Leadership,Technology,87084
+62,Female,PhD,Self-employed,27,Married,Doctor,Communication,Technology,193944
+35,Male,Bachelors,Private,53,Single,Technician,Excel,Art,64802
+55,Female,Diploma,Private,28,Divorced,Teacher,C++,Science,56906
+52,Female,PhD,Freelancer,42,Single,Artist,C++,Business,79171
+32,Male,High School,Freelancer,54,Divorced,Doctor,Communication,Science,76310
+42,Female,Masters,Unemployed,26,Married,Doctor,Python,Business,148992
+54,Female,Bachelors,Government,34,Single,Salesperson,Python,Health,59062
+45,Male,High School,Private,39,Single,Artist,C++,Health,37035
+27,Female,Bachelors,Freelancer,44,Divorced,Salesperson,Public Speaking,Technology,67975
+56,Female,Diploma,Private,22,Widowed,Doctor,Public Speaking,Business,119707
+34,Female,Masters,Freelancer,43,Divorced,Teacher,Communication,Business,68856
+56,Male,Masters,Self-employed,53,Widowed,Salesperson,Python,Science,98272
+39,Male,Diploma,Private,41,Divorced,Salesperson,Leadership,Health,58481
+43,Female,Masters,Self-employed,30,Married,Salesperson,C++,Education,75057
+61,Male,PhD,Private,27,Single,Doctor,Data Analysis,Technology,205274
+42,Female,Bachelors,Government,58,Divorced,Teacher,Leadership,Business,64459
+34,Female,High School,Unemployed,54,Married,Artist,Communication,Art,39523
+30,Female,Diploma,Self-employed,57,Divorced,Engineer,Data Analysis,Art,57373
+37,Female,PhD,Freelancer,27,Single,Artist,Leadership,Education,93830
+42,Female,High School,Government,56,Divorced,Teacher,Python,Health,39947
+21,Male,High School,Private,46,Widowed,Manager,Public Speaking,Health,83639
+27,Female,Diploma,Self-employed,47,Single,Salesperson,Python,Health,50296
+20,Male,PhD,Private,59,Widowed,Artist,Data Analysis,Science,100758
+58,Male,High School,Private,53,Married,Manager,Excel,Art,75083
+62,Female,High School,Private,51,Married,Manager,Public Speaking,Health,67746
+35,Female,PhD,Unemployed,34,Divorced,Teacher,C++,Art,105464
+64,Male,Masters,Unemployed,36,Widowed,Teacher,Data Analysis,Education,78626
+53,Male,High School,Freelancer,52,Widowed,Salesperson,Communication,Technology,47128
+64,Male,Bachelors,Self-employed,35,Single,Engineer,C++,Science,91423
+39,Female,PhD,Government,48,Widowed,Technician,Leadership,Business,127640
+51,Male,High School,Government,28,Widowed,Doctor,Public Speaking,Education,90826
+64,Female,Diploma,Government,52,Single,Artist,Communication,Art,47308
+25,Female,Bachelors,Private,48,Single,Teacher,Communication,Education,69681
+57,Female,High School,Unemployed,32,Widowed,Artist,Python,Business,38107
+61,Male,Bachelors,Self-employed,40,Divorced,Technician,Leadership,Science,66497
+36,Female,Bachelors,Private,40,Single,Technician,Python,Technology,70295
+59,Female,Masters,Unemployed,24,Single,Salesperson,Python,Business,85125
+58,Female,Bachelors,Unemployed,29,Widowed,Manager,Public Speaking,Science,118037
+54,Female,Masters,Self-employed,25,Widowed,Salesperson,Excel,Art,68974
+23,Female,PhD,Self-employed,32,Single,Doctor,Python,Business,183608
+43,Male,Masters,Self-employed,20,Widowed,Engineer,C++,Education,115394
+51,Female,Diploma,Private,39,Single,Artist,Communication,Health,39161
+62,Female,High School,Freelancer,27,Divorced,Doctor,Public Speaking,Education,68229
+23,Male,PhD,Self-employed,29,Divorced,Engineer,Python,Art,142206
+54,Female,PhD,Freelancer,28,Single,Artist,Data Analysis,Technology,106973
+50,Male,Diploma,Private,22,Single,Doctor,C++,Business,101234
+39,Female,Masters,Freelancer,30,Married,Teacher,Leadership,Technology,87404
+38,Male,High School,Government,31,Married,Artist,Communication,Art,40758
+23,Male,Masters,Freelancer,29,Widowed,Doctor,Public Speaking,Business,135418
+23,Female,Bachelors,Self-employed,44,Widowed,Technician,Data Analysis,Science,81351
+21,Female,Masters,Private,44,Single,Engineer,Public Speaking,Science,104237
+47,Female,PhD,Self-employed,30,Single,Doctor,Public Speaking,Education,224519
+28,Male,High School,Government,55,Married,Teacher,Data Analysis,Education,43944
+47,Male,Masters,Self-employed,58,Married,Salesperson,Leadership,Art,77177
+48,Male,High School,Self-employed,45,Single,Artist,Data Analysis,Science,30458
+41,Female,High School,Self-employed,33,Divorced,Artist,C++,Business,42665
+26,Male,Bachelors,Unemployed,58,Divorced,Artist,Public Speaking,Science,46240
+20,Male,Bachelors,Government,59,Widowed,Teacher,Leadership,Education,71196
+48,Female,PhD,Self-employed,20,Single,Engineer,Public Speaking,Art,160167
+57,Male,Diploma,Self-employed,23,Single,Artist,Data Analysis,Science,49035
+54,Male,High School,Self-employed,49,Widowed,Engineer,Leadership,Art,66750
+53,Female,Diploma,Private,31,Married,Doctor,Leadership,Science,118690
+41,Male,PhD,Unemployed,54,Married,Technician,Python,Technology,134620
+48,Female,High School,Private,32,Divorced,Technician,Python,Science,45422
+23,Female,High School,Unemployed,50,Single,Engineer,Python,Education,62511
+19,Female,Diploma,Self-employed,57,Married,Engineer,Data Analysis,Business,56389
+37,Female,Masters,Government,42,Divorced,Technician,Communication,Education,91316
+45,Female,Bachelors,Freelancer,23,Divorced,Artist,C++,Education,53023
+28,Male,Masters,Freelancer,35,Divorced,Manager,Data Analysis,Education,144332
+21,Male,Diploma,Self-employed,26,Married,Manager,Public Speaking,Art,96204
+32,Female,Bachelors,Private,41,Married,Teacher,Python,Health,62029
+23,Female,Masters,Government,48,Single,Salesperson,Leadership,Health,93139
+47,Male,Bachelors,Unemployed,30,Single,Technician,Data Analysis,Technology,84680
+55,Female,High School,Self-employed,52,Divorced,Technician,Leadership,Education,40480
+19,Female,Masters,Government,48,Divorced,Teacher,Public Speaking,Health,67014
+32,Female,Bachelors,Government,58,Married,Manager,Leadership,Technology,87481
+28,Male,Bachelors,Unemployed,31,Married,Doctor,Leadership,Art,138443
+25,Male,Bachelors,Government,26,Single,Artist,Excel,Education,55326
+43,Female,Masters,Private,58,Single,Artist,Communication,Business,78711
+62,Female,PhD,Private,45,Widowed,Doctor,C++,Art,177709
+61,Male,Masters,Private,59,Single,Doctor,C++,Technology,123793
+22,Male,Diploma,Government,28,Married,Manager,Python,Art,101658
+23,Female,Masters,Private,53,Divorced,Teacher,Excel,Business,87281
+43,Female,Bachelors,Unemployed,32,Widowed,Doctor,Data Analysis,Art,110505
+21,Male,High School,Government,55,Single,Teacher,Data Analysis,Technology,38532
+36,Male,Masters,Freelancer,44,Single,Salesperson,C++,Business,70612
+37,Male,Masters,Government,43,Married,Engineer,Communication,Business,123742
+50,Female,Bachelors,Unemployed,36,Widowed,Artist,Leadership,Art,49774
+37,Male,High School,Freelancer,21,Single,Manager,Public Speaking,Business,71787
+29,Female,High School,Government,32,Divorced,Artist,Python,Art,30199
+64,Male,Diploma,Private,50,Married,Manager,Communication,Education,103941
+18,Male,Masters,Self-employed,48,Widowed,Engineer,C++,Business,89697
+43,Male,High School,Self-employed,47,Single,Artist,Excel,Art,35332
+31,Male,High School,Private,46,Single,Engineer,Python,Education,59818
+55,Female,PhD,Self-employed,34,Widowed,Manager,C++,Business,197506
+54,Female,PhD,Self-employed,50,Married,Doctor,Data Analysis,Education,235677
+28,Male,High School,Private,59,Widowed,Salesperson,Python,Science,42576
+53,Female,Diploma,Private,34,Widowed,Artist,C++,Business,49360
+30,Male,High School,Government,52,Married,Engineer,Data Analysis,Science,48261
+60,Male,Bachelors,Government,39,Single,Technician,Public Speaking,Technology,69548
+20,Male,Masters,Private,31,Divorced,Artist,Data Analysis,Technology,56673
+50,Male,Diploma,Unemployed,56,Married,Artist,Leadership,Art,44808
+23,Female,Bachelors,Self-employed,28,Divorced,Artist,Excel,Health,52015
+27,Male,Diploma,Government,42,Single,Teacher,Leadership,Science,59030
+22,Male,Bachelors,Self-employed,27,Widowed,Engineer,C++,Science,68299
+40,Female,Masters,Freelancer,51,Divorced,Engineer,Public Speaking,Technology,99562
+27,Male,Masters,Private,33,Single,Artist,Communication,Science,65971
+61,Male,PhD,Unemployed,46,Single,Doctor,Public Speaking,Health,236044
+19,Male,Bachelors,Freelancer,44,Widowed,Artist,Public Speaking,Education,61677
+30,Female,PhD,Freelancer,32,Widowed,Teacher,Public Speaking,Education,83974
+57,Male,Bachelors,Freelancer,40,Single,Manager,Leadership,Health,116021
+19,Female,PhD,Private,50,Single,Teacher,Communication,Science,101778
+37,Male,Masters,Government,56,Divorced,Doctor,Data Analysis,Science,178670
+18,Male,Diploma,Private,24,Single,Artist,C++,Science,42456
+54,Female,PhD,Government,32,Single,Engineer,Excel,Art,134295
+26,Male,Bachelors,Freelancer,47,Divorced,Salesperson,Communication,Business,57810
+34,Male,Bachelors,Freelancer,44,Married,Technician,C++,Health,61118
+26,Female,Masters,Unemployed,54,Divorced,Artist,Communication,Health,76896
+28,Female,Bachelors,Government,58,Divorced,Doctor,Leadership,Health,117826
+32,Female,High School,Freelancer,26,Widowed,Engineer,C++,Health,59646
+41,Female,Diploma,Self-employed,57,Divorced,Teacher,Leadership,Health,52834
+55,Female,PhD,Unemployed,51,Single,Manager,Python,Science,186994
+52,Male,Diploma,Private,22,Single,Manager,C++,Art,72768
+47,Female,Masters,Unemployed,58,Single,Salesperson,Communication,Technology,91964
+48,Male,PhD,Self-employed,56,Married,Artist,Python,Science,80768
+22,Male,PhD,Government,41,Single,Teacher,Leadership,Science,85036
+61,Male,High School,Private,27,Married,Salesperson,Leadership,Business,45136
+31,Female,Masters,Private,36,Single,Technician,Communication,Technology,74469
+28,Female,Bachelors,Government,46,Divorced,Technician,Python,Health,79636
+26,Male,High School,Unemployed,52,Widowed,Salesperson,Public Speaking,Technology,38845
+51,Female,High School,Freelancer,36,Single,Doctor,Data Analysis,Art,70910
+29,Female,Diploma,Unemployed,31,Married,Manager,Excel,Education,103309
+52,Female,Diploma,Self-employed,46,Married,Teacher,Communication,Science,46571
+52,Female,Diploma,Freelancer,27,Widowed,Artist,Leadership,Technology,38655
+18,Male,High School,Unemployed,42,Single,Engineer,C++,Business,64971
+57,Male,Bachelors,Government,48,Divorced,Artist,Python,Art,43261
+39,Female,PhD,Self-employed,39,Single,Artist,Data Analysis,Education,102902
+46,Male,Diploma,Self-employed,35,Single,Teacher,Excel,Art,42893
+25,Female,Bachelors,Self-employed,36,Widowed,Manager,C++,Health,92015
+28,Female,Masters,Freelancer,35,Single,Teacher,Python,Education,67519
+58,Male,Diploma,Private,38,Divorced,Engineer,Data Analysis,Business,60885
+54,Male,PhD,Freelancer,27,Married,Salesperson,Communication,Education,117086
+31,Male,Masters,Unemployed,57,Widowed,Teacher,Data Analysis,Business,60773
+47,Female,Masters,Private,57,Divorced,Doctor,Communication,Health,120891
+52,Male,PhD,Unemployed,48,Married,Artist,Public Speaking,Business,100439
+38,Female,Diploma,Private,55,Widowed,Manager,Python,Art,80565
+54,Male,High School,Freelancer,45,Widowed,Technician,Data Analysis,Technology,44616
+22,Male,PhD,Self-employed,50,Married,Engineer,Excel,Art,121757
+36,Female,PhD,Government,31,Married,Technician,Data Analysis,Science,98515
+31,Female,PhD,Self-employed,36,Divorced,Artist,Python,Art,98701
+43,Female,Masters,Freelancer,34,Single,Teacher,C++,Education,75782
+21,Female,Bachelors,Private,28,Single,Technician,C++,Health,79075
+42,Female,High School,Self-employed,58,Single,Doctor,Data Analysis,Science,79239
+62,Female,Diploma,Freelancer,31,Single,Teacher,Data Analysis,Science,55560
+59,Female,Diploma,Unemployed,51,Single,Artist,Communication,Science,45238
+42,Female,Bachelors,Government,44,Divorced,Technician,Python,Technology,60740
+35,Male,PhD,Self-employed,58,Widowed,Salesperson,Communication,Business,110168
+57,Female,High School,Private,37,Divorced,Engineer,Excel,Education,65977
+25,Female,Diploma,Unemployed,34,Divorced,Technician,Public Speaking,Health,49040
+56,Male,Diploma,Freelancer,51,Divorced,Salesperson,C++,Technology,61230
+57,Female,PhD,Government,25,Widowed,Salesperson,Leadership,Art,126147
+31,Male,Bachelors,Private,54,Divorced,Technician,Leadership,Health,72617
+49,Male,High School,Freelancer,53,Divorced,Manager,Python,Science,70791
+55,Female,Bachelors,Freelancer,57,Widowed,Technician,Python,Health,85363
+50,Male,Bachelors,Self-employed,24,Divorced,Artist,Leadership,Health,44513
+40,Female,High School,Self-employed,37,Single,Salesperson,Python,Art,43630
+32,Male,High School,Private,35,Married,Engineer,C++,Business,53796
+50,Male,Diploma,Freelancer,27,Divorced,Artist,Excel,Education,48349
+42,Male,Diploma,Self-employed,44,Married,Doctor,Excel,Science,99610
+34,Female,High School,Government,51,Divorced,Teacher,Communication,Business,46555
+50,Female,Masters,Government,45,Divorced,Technician,C++,Technology,74645
+64,Male,Diploma,Freelancer,41,Single,Manager,Public Speaking,Science,74908
+19,Male,Masters,Self-employed,50,Widowed,Engineer,Python,Education,109548
+31,Female,High School,Private,29,Married,Manager,Python,Technology,59491
+57,Female,Diploma,Private,31,Widowed,Manager,Public Speaking,Art,81900
+57,Male,Bachelors,Private,47,Single,Manager,Communication,Business,113748
+56,Male,High School,Government,25,Single,Technician,Communication,Science,48928
+23,Female,PhD,Self-employed,39,Married,Engineer,Python,Health,130210
+23,Female,Masters,Self-employed,24,Widowed,Engineer,Python,Education,125774
+20,Female,High School,Government,42,Single,Salesperson,Public Speaking,Science,44537
+24,Female,High School,Private,28,Divorced,Manager,C++,Health,70667
+25,Female,Diploma,Private,48,Divorced,Salesperson,Public Speaking,Science,57319
+59,Male,Diploma,Freelancer,35,Divorced,Salesperson,Communication,Technology,46181
+32,Female,Diploma,Unemployed,41,Widowed,Teacher,Public Speaking,Health,54035
+64,Male,PhD,Self-employed,27,Divorced,Technician,Public Speaking,Health,136934
+46,Female,Diploma,Self-employed,39,Divorced,Technician,Public Speaking,Science,63621
+50,Male,High School,Self-employed,33,Single,Artist,C++,Art,39873
+47,Female,Diploma,Unemployed,58,Single,Salesperson,Data Analysis,Art,59858
+56,Female,Bachelors,Freelancer,56,Divorced,Technician,Python,Business,63792
+44,Male,Diploma,Unemployed,53,Divorced,Manager,Leadership,Technology,88255
+53,Male,PhD,Private,30,Single,Doctor,Public Speaking,Art,178279
+46,Female,Bachelors,Private,59,Married,Manager,Leadership,Science,101041
+55,Female,High School,Self-employed,52,Widowed,Engineer,Data Analysis,Art,54958
+50,Female,High School,Government,50,Widowed,Technician,Python,Business,46387
+54,Female,Masters,Self-employed,53,Single,Technician,Communication,Education,75423
+44,Female,Bachelors,Government,26,Widowed,Artist,Leadership,Business,52418
+50,Male,Masters,Unemployed,42,Single,Salesperson,Communication,Health,87948
+21,Male,Bachelors,Private,26,Single,Doctor,Leadership,Health,113966
+39,Female,Bachelors,Government,44,Single,Technician,Communication,Art,61996
+19,Male,PhD,Unemployed,22,Single,Artist,Public Speaking,Art,105227
+27,Male,Masters,Private,57,Married,Artist,Leadership,Business,55812
+22,Male,PhD,Government,39,Divorced,Doctor,Communication,Business,226541
+27,Female,Bachelors,Self-employed,53,Divorced,Manager,Data Analysis,Science,90427
+50,Male,High School,Self-employed,49,Married,Manager,C++,Technology,60381
+55,Female,Bachelors,Self-employed,36,Widowed,Manager,Communication,Science,118315
+30,Male,PhD,Unemployed,29,Widowed,Teacher,C++,Health,112470
+48,Female,Masters,Self-employed,54,Divorced,Salesperson,C++,Science,84360
+64,Male,Masters,Freelancer,39,Widowed,Salesperson,Python,Business,85353
+53,Female,PhD,Private,37,Divorced,Manager,Public Speaking,Science,184434
+62,Female,Masters,Unemployed,46,Divorced,Doctor,Data Analysis,Education,139778
+41,Male,Diploma,Self-employed,55,Married,Teacher,C++,Technology,42444
+32,Female,High School,Private,42,Widowed,Salesperson,Excel,Business,41423
+46,Female,High School,Government,51,Married,Manager,Public Speaking,Art,76761
+25,Female,High School,Self-employed,29,Divorced,Teacher,C++,Science,44004
+22,Female,Masters,Private,30,Divorced,Doctor,Communication,Business,172085
+46,Female,Masters,Freelancer,57,Divorced,Manager,C++,Art,146937
+64,Female,Bachelors,Government,25,Single,Engineer,Communication,Art,99738
+21,Female,Bachelors,Freelancer,53,Single,Technician,Communication,Health,74891
+29,Female,High School,Private,55,Single,Doctor,Excel,Health,75252
+62,Male,Diploma,Freelancer,56,Married,Artist,C++,Business,46402
+19,Male,Bachelors,Private,36,Divorced,Artist,C++,Business,47795
+44,Female,Bachelors,Private,59,Widowed,Doctor,Leadership,Education,127523
+48,Female,Masters,Freelancer,59,Married,Artist,Public Speaking,Technology,60054
+53,Male,Diploma,Private,31,Married,Salesperson,Leadership,Technology,46380
+53,Male,High School,Self-employed,40,Married,Doctor,Python,Business,91051
+43,Male,Bachelors,Private,59,Widowed,Engineer,Communication,Health,79550
+60,Female,Diploma,Unemployed,38,Divorced,Doctor,Excel,Science,110504
+44,Male,Diploma,Private,22,Single,Manager,Leadership,Education,92667
+22,Female,High School,Unemployed,37,Divorced,Manager,C++,Technology,80847
+37,Female,Diploma,Private,38,Divorced,Teacher,Python,Business,56903
+28,Male,Diploma,Private,25,Married,Artist,Excel,Health,53541
+27,Female,Diploma,Freelancer,35,Married,Technician,Data Analysis,Health,67642
+57,Female,Bachelors,Self-employed,27,Married,Artist,C++,Health,56453
+55,Female,High School,Self-employed,37,Single,Salesperson,C++,Science,46511
+23,Female,Diploma,Government,58,Single,Doctor,Data Analysis,Art,81050
+25,Male,Diploma,Freelancer,31,Single,Technician,Communication,Science,70298
+40,Male,Bachelors,Freelancer,29,Divorced,Technician,Communication,Health,81488
+64,Female,High School,Self-employed,26,Married,Artist,Leadership,Business,32651
+43,Female,Masters,Freelancer,20,Widowed,Technician,Leadership,Education,78494
+63,Male,Bachelors,Self-employed,55,Divorced,Technician,C++,Science,77837
+60,Female,High School,Freelancer,40,Single,Manager,Public Speaking,Business,66498
+29,Male,Diploma,Private,56,Widowed,Engineer,C++,Health,65515
+43,Female,High School,Self-employed,43,Widowed,Doctor,Leadership,Education,64195
+30,Female,High School,Self-employed,44,Married,Artist,Data Analysis,Technology,41326
+57,Male,High School,Unemployed,26,Widowed,Manager,Leadership,Technology,73910
+35,Male,Masters,Freelancer,36,Single,Salesperson,C++,Business,79225
+42,Male,High School,Freelancer,48,Married,Salesperson,Excel,Education,37696
+50,Male,Masters,Self-employed,49,Widowed,Teacher,C++,Business,78995
+64,Female,Diploma,Private,26,Married,Technician,Excel,Education,48735
+57,Male,Masters,Private,52,Widowed,Technician,Excel,Education,98860
+60,Female,Diploma,Private,26,Divorced,Artist,C++,Business,39872
+29,Male,Diploma,Freelancer,43,Divorced,Engineer,Public Speaking,Education,67755
+61,Male,Masters,Unemployed,30,Single,Engineer,Public Speaking,Science,98317
+53,Female,Bachelors,Self-employed,28,Divorced,Artist,Python,Health,51193
+21,Male,PhD,Government,31,Divorced,Artist,Leadership,Education,97977
+22,Male,High School,Unemployed,54,Divorced,Manager,Public Speaking,Science,79972
+54,Male,PhD,Government,23,Widowed,Salesperson,Communication,Education,112974
+25,Male,High School,Unemployed,55,Widowed,Artist,C++,Science,30023
+59,Female,High School,Private,47,Married,Salesperson,Excel,Business,36125
+45,Female,Diploma,Freelancer,32,Widowed,Teacher,C++,Technology,43148
+48,Male,High School,Government,42,Divorced,Salesperson,Leadership,Art,46073
+26,Male,High School,Unemployed,38,Widowed,Manager,Data Analysis,Education,77010
+46,Male,Masters,Freelancer,56,Single,Technician,Public Speaking,Art,81795
+31,Female,PhD,Government,58,Married,Technician,Public Speaking,Education,127773
+57,Female,Masters,Self-employed,43,Married,Salesperson,Public Speaking,Business,82026
+58,Female,High School,Unemployed,35,Widowed,Technician,Excel,Business,46887
+39,Female,Diploma,Self-employed,52,Divorced,Technician,Communication,Science,54556
+28,Male,Masters,Private,31,Married,Doctor,Communication,Education,165296
+40,Male,Masters,Self-employed,53,Single,Teacher,Public Speaking,Business,63414
+18,Male,Bachelors,Self-employed,26,Single,Manager,Communication,Business,104972
+63,Female,High School,Unemployed,30,Married,Manager,Data Analysis,Education,65757
+54,Male,Diploma,Private,50,Divorced,Technician,Public Speaking,Science,64283
+38,Female,Masters,Self-employed,48,Divorced,Engineer,Python,Science,104438
+43,Female,Masters,Freelancer,32,Widowed,Manager,Excel,Science,144025
+63,Male,Diploma,Government,50,Widowed,Teacher,Data Analysis,Science,40908
+53,Male,High School,Self-employed,21,Married,Artist,Excel,Technology,34491
+40,Male,Bachelors,Private,58,Widowed,Teacher,Public Speaking,Education,62383
+18,Female,Masters,Self-employed,34,Widowed,Technician,Data Analysis,Technology,72276
+57,Female,Bachelors,Government,30,Widowed,Technician,Public Speaking,Business,66280
+32,Male,PhD,Private,53,Single,Doctor,Data Analysis,Technology,176898
+38,Male,High School,Unemployed,58,Widowed,Salesperson,Public Speaking,Science,37615
+64,Female,PhD,Private,23,Married,Manager,Python,Business,162397
+26,Male,PhD,Unemployed,30,Divorced,Salesperson,Excel,Technology,102437
+26,Female,PhD,Private,48,Widowed,Salesperson,Data Analysis,Technology,88340
+27,Female,High School,Government,21,Divorced,Manager,Python,Education,79114
+43,Male,High School,Government,35,Widowed,Manager,C++,Technology,62660
+58,Male,Diploma,Private,58,Married,Technician,Public Speaking,Business,57124
+52,Male,Bachelors,Self-employed,32,Single,Manager,Leadership,Science,116798
+42,Male,Bachelors,Government,56,Married,Engineer,Data Analysis,Education,84008
+43,Female,Diploma,Unemployed,36,Single,Engineer,Communication,Technology,79333
+28,Female,Diploma,Unemployed,40,Widowed,Artist,Python,Education,50511
+55,Female,PhD,Freelancer,38,Widowed,Manager,Python,Art,149189
+19,Male,Diploma,Unemployed,26,Single,Doctor,Data Analysis,Education,114470
+24,Female,Masters,Freelancer,57,Married,Artist,Python,Science,55142
+35,Male,Bachelors,Private,27,Married,Technician,C++,Art,58139
+44,Male,Diploma,Private,32,Single,Manager,Python,Art,105161
+51,Male,Masters,Private,56,Widowed,Engineer,Leadership,Education,120208
+44,Male,Masters,Self-employed,21,Single,Doctor,Leadership,Business,154545
+34,Male,Masters,Self-employed,30,Widowed,Artist,Public Speaking,Science,69481
+60,Male,Masters,Freelancer,43,Single,Doctor,Public Speaking,Business,162569
+61,Female,PhD,Unemployed,25,Widowed,Manager,Communication,Science,174073
+41,Male,Masters,Unemployed,45,Single,Teacher,C++,Science,63455
+42,Female,PhD,Private,26,Divorced,Doctor,Leadership,Business,161668
+24,Female,PhD,Government,58,Widowed,Doctor,Data Analysis,Health,185981
+23,Male,Masters,Self-employed,38,Married,Technician,Excel,Art,100847
+41,Male,Bachelors,Self-employed,25,Single,Engineer,Excel,Education,87969
+50,Male,Masters,Private,48,Married,Manager,Excel,Business,152929
+46,Female,Masters,Self-employed,58,Single,Doctor,Public Speaking,Business,175186
+60,Male,Masters,Private,21,Married,Manager,Data Analysis,Education,112759
+39,Female,Bachelors,Freelancer,38,Married,Engineer,Python,Art,95574
+43,Male,High School,Unemployed,23,Single,Technician,Data Analysis,Education,43071
+45,Male,High School,Government,25,Single,Manager,Python,Science,74559
+38,Female,PhD,Unemployed,56,Married,Salesperson,Excel,Health,111054
+24,Female,PhD,Unemployed,47,Married,Engineer,Communication,Science,134162
+34,Male,Bachelors,Freelancer,49,Married,Engineer,Communication,Health,77625
+37,Female,Diploma,Self-employed,26,Widowed,Artist,Python,Education,42111
+58,Female,High School,Government,28,Widowed,Technician,Excel,Science,44794
+37,Female,PhD,Self-employed,44,Divorced,Technician,Data Analysis,Art,104070
+39,Female,High School,Unemployed,52,Widowed,Salesperson,Communication,Science,44184
+45,Female,Bachelors,Private,20,Widowed,Manager,Python,Business,91325
+57,Male,Bachelors,Unemployed,25,Single,Teacher,Data Analysis,Health,60238
+24,Male,Diploma,Self-employed,37,Divorced,Salesperson,Excel,Health,63930
+18,Female,Diploma,Unemployed,29,Divorced,Artist,C++,Art,42288
+49,Male,Bachelors,Private,47,Widowed,Technician,Excel,Health,78548
+30,Male,PhD,Freelancer,30,Single,Engineer,Public Speaking,Health,157861
+47,Female,High School,Self-employed,52,Single,Technician,Excel,Art,54048
+40,Male,Masters,Unemployed,20,Divorced,Salesperson,Data Analysis,Science,73796
+36,Female,Diploma,Self-employed,32,Single,Teacher,Data Analysis,Education,42928
+49,Female,Masters,Freelancer,56,Married,Doctor,Leadership,Science,131836
+47,Male,PhD,Unemployed,39,Widowed,Doctor,Leadership,Business,208191
+46,Female,Diploma,Unemployed,20,Married,Technician,Data Analysis,Business,66245
+62,Female,Masters,Self-employed,22,Divorced,Technician,Data Analysis,Health,95598
+46,Female,PhD,Self-employed,37,Divorced,Artist,C++,Business,78377
+47,Female,High School,Private,33,Single,Technician,C++,Education,53238
+33,Female,PhD,Freelancer,50,Single,Teacher,Excel,Health,99764
+57,Male,Diploma,Private,46,Divorced,Technician,Public Speaking,Business,66106
+36,Male,Bachelors,Unemployed,36,Divorced,Manager,Communication,Technology,119226
+35,Female,High School,Self-employed,48,Married,Salesperson,Public Speaking,Technology,43100
+18,Female,Masters,Unemployed,55,Married,Teacher,C++,Technology,87724
+31,Male,Diploma,Unemployed,56,Single,Artist,Excel,Technology,46160
+64,Female,Bachelors,Government,45,Married,Manager,Public Speaking,Science,113844
+19,Male,PhD,Government,36,Single,Manager,Python,Technology,188965
+45,Female,Bachelors,Unemployed,41,Single,Salesperson,Leadership,Health,75616
+47,Female,Diploma,Self-employed,44,Widowed,Doctor,Public Speaking,Art,105088
+55,Female,Diploma,Unemployed,21,Single,Teacher,Communication,Science,43019
+21,Female,Bachelors,Government,41,Married,Salesperson,Excel,Art,54602
+18,Female,PhD,Self-employed,24,Divorced,Manager,Public Speaking,Health,175838
+25,Female,Bachelors,Unemployed,23,Divorced,Artist,Data Analysis,Health,49740
+46,Female,Diploma,Freelancer,55,Married,Salesperson,Python,Education,50042
+56,Male,Diploma,Freelancer,25,Divorced,Doctor,Leadership,Science,82246
+20,Male,Masters,Unemployed,40,Single,Manager,Python,Art,135396
+49,Male,Masters,Self-employed,32,Divorced,Salesperson,Excel,Technology,76243
+27,Female,High School,Unemployed,56,Married,Teacher,C++,Health,39230
+27,Female,Diploma,Unemployed,44,Divorced,Doctor,Leadership,Technology,82275
+36,Female,Masters,Government,45,Single,Teacher,Python,Art,84950
+63,Female,Bachelors,Freelancer,58,Single,Teacher,C++,Science,49841
+51,Female,PhD,Government,39,Married,Teacher,Communication,Business,114570
+50,Female,Bachelors,Government,52,Married,Salesperson,Excel,Business,75379
+40,Female,PhD,Unemployed,33,Married,Doctor,Excel,Health,209200
+45,Male,Masters,Government,55,Widowed,Salesperson,Leadership,Education,82733
+49,Female,High School,Freelancer,36,Widowed,Salesperson,Python,Technology,43343
+24,Male,Bachelors,Government,40,Single,Salesperson,Communication,Health,67433
+46,Male,Bachelors,Freelancer,35,Widowed,Manager,Data Analysis,Education,120606
+25,Female,Bachelors,Government,35,Widowed,Technician,Leadership,Technology,83401
+18,Female,PhD,Freelancer,39,Divorced,Engineer,Data Analysis,Art,137185
+20,Male,Masters,Government,48,Widowed,Manager,Leadership,Business,151730
+41,Male,Bachelors,Government,47,Divorced,Doctor,Python,Education,127288
+40,Female,Bachelors,Self-employed,27,Married,Engineer,Communication,Technology,78003
+25,Female,High School,Freelancer,43,Divorced,Engineer,Python,Health,55454
+64,Male,High School,Freelancer,22,Divorced,Engineer,Excel,Technology,48179
+54,Female,Masters,Freelancer,44,Married,Technician,Data Analysis,Health,74227
+20,Female,Masters,Private,38,Married,Salesperson,C++,Business,69415
+50,Female,Diploma,Government,52,Single,Artist,Public Speaking,Business,52184
+45,Male,High School,Freelancer,21,Single,Doctor,Excel,Technology,74990
+64,Male,Diploma,Private,34,Single,Technician,Excel,Technology,65143
+25,Male,PhD,Self-employed,41,Single,Technician,Data Analysis,Health,120218
+51,Female,Diploma,Freelancer,29,Divorced,Artist,Leadership,Health,39106
+52,Female,Bachelors,Freelancer,37,Divorced,Engineer,Excel,Education,75524
+49,Male,Diploma,Private,41,Single,Salesperson,Public Speaking,Education,53630
+41,Male,Masters,Government,46,Widowed,Artist,Communication,Education,65864
+31,Male,PhD,Self-employed,32,Single,Artist,Excel,Technology,90818
+49,Female,Bachelors,Freelancer,52,Widowed,Technician,Communication,Science,62171
+63,Male,Diploma,Government,24,Married,Doctor,Python,Science,94914
+60,Male,PhD,Self-employed,45,Divorced,Teacher,Leadership,Science,91315
+33,Female,PhD,Unemployed,32,Divorced,Salesperson,Communication,Science,105985
+21,Female,Bachelors,Unemployed,46,Widowed,Artist,Excel,Education,50508
+54,Female,Diploma,Self-employed,33,Single,Salesperson,Leadership,Technology,57153
+38,Male,PhD,Private,43,Divorced,Artist,Public Speaking,Science,100412
+31,Female,PhD,Self-employed,22,Widowed,Engineer,Leadership,Business,148249
+48,Female,High School,Self-employed,49,Married,Salesperson,Communication,Art,36360
+35,Male,PhD,Private,54,Married,Engineer,Communication,Business,117292
+24,Female,High School,Private,33,Divorced,Technician,C++,Technology,51424
+27,Male,Diploma,Government,31,Single,Engineer,C++,Technology,63956
+24,Male,Diploma,Government,47,Widowed,Salesperson,Leadership,Art,59922
+50,Female,Diploma,Private,48,Divorced,Manager,Data Analysis,Health,95636
+40,Female,Masters,Unemployed,36,Married,Salesperson,Data Analysis,Health,95909
+38,Female,Diploma,Unemployed,59,Single,Artist,C++,Health,51719
+36,Female,PhD,Self-employed,40,Widowed,Engineer,Excel,Education,130668
+36,Female,Bachelors,Freelancer,42,Divorced,Doctor,Python,Health,123971
+53,Female,High School,Self-employed,39,Widowed,Manager,Leadership,Education,61673
+46,Male,Masters,Self-employed,30,Single,Technician,Python,Education,84593
+35,Male,Diploma,Freelancer,53,Single,Teacher,C++,Health,59353
+19,Female,Diploma,Private,29,Married,Artist,Communication,Health,48572
+18,Male,Bachelors,Unemployed,29,Single,Artist,Public Speaking,Art,51666
+64,Female,Bachelors,Self-employed,25,Divorced,Doctor,Leadership,Science,124561
+22,Male,Masters,Freelancer,55,Widowed,Teacher,C++,Art,88140
+37,Male,High School,Government,43,Single,Teacher,Excel,Education,36953
+28,Male,Diploma,Self-employed,31,Single,Technician,Public Speaking,Art,57040
+59,Female,Masters,Unemployed,42,Divorced,Technician,Leadership,Education,100499
+19,Male,PhD,Private,46,Widowed,Manager,Leadership,Technology,202549
+20,Female,PhD,Self-employed,56,Widowed,Artist,Data Analysis,Education,96124
+40,Male,Masters,Self-employed,25,Married,Engineer,Communication,Education,118816
+29,Male,Diploma,Freelancer,20,Married,Technician,Leadership,Art,65730
+37,Male,Masters,Government,25,Widowed,Doctor,Communication,Science,161124
+22,Male,Diploma,Government,41,Divorced,Doctor,C++,Technology,101055
+54,Male,Bachelors,Private,43,Divorced,Doctor,Excel,Business,127009
+55,Female,Masters,Unemployed,44,Married,Salesperson,Public Speaking,Business,79972
+47,Female,Diploma,Private,34,Single,Technician,Public Speaking,Science,56683
+26,Male,Masters,Self-employed,45,Divorced,Technician,Excel,Business,85053
+51,Male,Masters,Self-employed,27,Single,Doctor,Leadership,Technology,130815
+61,Male,Diploma,Government,43,Divorced,Technician,Leadership,Health,53140
+52,Male,Diploma,Unemployed,57,Widowed,Salesperson,C++,Technology,64848
+39,Female,High School,Freelancer,25,Married,Engineer,Data Analysis,Art,55692
+61,Male,Masters,Unemployed,54,Single,Engineer,Data Analysis,Education,93514
+41,Female,PhD,Self-employed,20,Single,Manager,Data Analysis,Education,153904
+34,Male,Masters,Freelancer,55,Widowed,Artist,Communication,Art,56083
+27,Female,Masters,Unemployed,31,Divorced,Engineer,Data Analysis,Art,119465
+47,Male,Diploma,Unemployed,57,Single,Manager,Excel,Education,75641
+63,Male,Masters,Freelancer,30,Divorced,Teacher,Public Speaking,Science,83126
+40,Female,Masters,Self-employed,31,Widowed,Artist,Public Speaking,Health,76548
+49,Male,PhD,Unemployed,58,Married,Engineer,Communication,Health,161486
+34,Male,Diploma,Freelancer,26,Single,Salesperson,C++,Health,44830
+34,Male,Masters,Self-employed,30,Divorced,Teacher,Excel,Art,70102
+31,Female,Bachelors,Freelancer,55,Single,Manager,Public Speaking,Education,119504
+26,Male,High School,Freelancer,50,Divorced,Engineer,Excel,Science,47735
+57,Male,PhD,Unemployed,52,Divorced,Engineer,Public Speaking,Education,133096
+19,Female,Masters,Self-employed,32,Divorced,Technician,Python,Education,77840
+62,Female,Bachelors,Unemployed,37,Widowed,Teacher,C++,Science,67952
+42,Female,Masters,Private,43,Married,Engineer,C++,Technology,116386
+56,Male,Masters,Private,28,Single,Doctor,Python,Science,168542
+26,Male,Diploma,Self-employed,50,Married,Salesperson,Communication,Technology,47641
+39,Male,Diploma,Freelancer,29,Divorced,Technician,Public Speaking,Business,58504
+60,Female,Diploma,Unemployed,21,Divorced,Technician,Public Speaking,Technology,57860
+63,Male,Bachelors,Unemployed,57,Married,Engineer,Public Speaking,Health,89925
+21,Male,Masters,Self-employed,34,Married,Salesperson,Data Analysis,Health,73838
+43,Female,High School,Self-employed,22,Single,Technician,Data Analysis,Science,46928
+46,Female,PhD,Private,50,Divorced,Artist,Data Analysis,Health,82257
+62,Female,Diploma,Government,25,Married,Teacher,Data Analysis,Health,54970
+51,Female,Diploma,Self-employed,22,Widowed,Artist,Data Analysis,Business,44080
+40,Female,Masters,Government,30,Divorced,Manager,Python,Health,136836
+54,Male,Masters,Self-employed,34,Divorced,Artist,C++,Art,62355
+28,Female,Bachelors,Freelancer,47,Single,Salesperson,Communication,Art,74147
+23,Male,Bachelors,Freelancer,29,Widowed,Doctor,Excel,Art,118512
+35,Male,Diploma,Private,57,Single,Technician,Data Analysis,Technology,68042
+38,Female,Masters,Private,26,Widowed,Salesperson,Python,Science,78138
+59,Female,High School,Government,34,Single,Technician,Public Speaking,Science,56584
+53,Female,PhD,Self-employed,37,Widowed,Doctor,Communication,Education,238755
+58,Male,Masters,Unemployed,37,Widowed,Technician,Communication,Business,88620
+55,Female,Masters,Private,43,Widowed,Artist,Communication,Art,61607
+51,Female,Bachelors,Unemployed,21,Married,Manager,Python,Art,102896
+34,Female,PhD,Unemployed,59,Divorced,Engineer,Excel,Health,141537
+54,Female,Diploma,Self-employed,39,Widowed,Doctor,Data Analysis,Art,118650
+42,Female,Masters,Government,53,Married,Artist,Communication,Health,76056
+55,Male,Diploma,Self-employed,45,Married,Salesperson,Python,Health,61627
+29,Male,Masters,Private,26,Single,Artist,Public Speaking,Education,57736
+40,Male,Diploma,Unemployed,57,Divorced,Artist,C++,Technology,40500
+59,Female,PhD,Self-employed,49,Divorced,Engineer,Public Speaking,Health,147906
+39,Female,Bachelors,Self-employed,24,Single,Teacher,Python,Health,68978
+38,Female,PhD,Self-employed,30,Divorced,Technician,Python,Science,122617
+44,Male,High School,Private,20,Single,Technician,Python,Education,40369
+48,Female,Bachelors,Government,53,Married,Salesperson,Communication,Health,75131
+23,Female,PhD,Self-employed,20,Married,Manager,Python,Business,205283
+44,Female,High School,Private,38,Widowed,Salesperson,C++,Technology,40217
+57,Male,Masters,Unemployed,21,Single,Teacher,Communication,Business,82893
+51,Female,Masters,Freelancer,40,Married,Technician,Public Speaking,Art,81820
+29,Male,Diploma,Private,39,Married,Manager,C++,Technology,104591
+62,Female,Bachelors,Freelancer,42,Single,Salesperson,Leadership,Art,56690
+24,Male,Masters,Self-employed,40,Married,Manager,Public Speaking,Science,131623
+27,Male,Bachelors,Self-employed,43,Divorced,Artist,Python,Health,63642
+62,Male,Masters,Private,23,Married,Doctor,Data Analysis,Education,133322
+34,Female,Diploma,Freelancer,31,Single,Artist,Data Analysis,Business,44120
+43,Female,PhD,Self-employed,41,Divorced,Engineer,Communication,Art,131576
+38,Male,Diploma,Unemployed,39,Divorced,Technician,Data Analysis,Health,48640
+45,Male,High School,Government,37,Married,Manager,Public Speaking,Business,59133
+63,Female,Masters,Government,20,Widowed,Salesperson,Communication,Business,82566
+19,Female,High School,Self-employed,49,Divorced,Doctor,Public Speaking,Science,71544
+60,Male,High School,Freelancer,52,Single,Salesperson,Python,Science,52703
+18,Female,Bachelors,Self-employed,43,Widowed,Technician,Excel,Art,68397
+53,Female,Masters,Freelancer,33,Widowed,Manager,Excel,Health,109522
+43,Female,High School,Unemployed,55,Divorced,Manager,C++,Education,84407
+46,Female,PhD,Freelancer,24,Married,Artist,Python,Art,102210
+38,Male,High School,Self-employed,30,Widowed,Doctor,Data Analysis,Business,84798
+28,Female,PhD,Unemployed,43,Married,Doctor,Python,Business,223310
+57,Female,Bachelors,Private,50,Divorced,Technician,Leadership,Technology,61562
+28,Male,High School,Government,32,Single,Manager,Excel,Health,65862
+53,Male,Diploma,Self-employed,35,Widowed,Doctor,Data Analysis,Technology,113190
+56,Female,Bachelors,Self-employed,43,Single,Doctor,Public Speaking,Science,129411
+57,Female,PhD,Self-employed,32,Married,Salesperson,Public Speaking,Education,94106
+52,Female,Bachelors,Unemployed,43,Married,Technician,Excel,Art,77919
+51,Female,High School,Private,45,Single,Artist,Python,Business,35259
+64,Male,Masters,Freelancer,21,Divorced,Salesperson,Data Analysis,Health,66173
+41,Male,Masters,Private,35,Divorced,Salesperson,C++,Business,68614
+39,Male,PhD,Unemployed,57,Widowed,Teacher,Public Speaking,Science,90236
+22,Female,PhD,Self-employed,20,Widowed,Engineer,Python,Technology,158757
+50,Female,Masters,Government,30,Divorced,Teacher,C++,Technology,76464
+53,Female,PhD,Self-employed,54,Divorced,Doctor,Data Analysis,Art,218178
+64,Female,Bachelors,Freelancer,48,Single,Manager,Excel,Health,109199
+37,Male,Diploma,Government,56,Married,Engineer,Leadership,Science,59113
+36,Male,Diploma,Self-employed,36,Married,Engineer,Communication,Health,64066
+52,Female,Bachelors,Government,58,Widowed,Manager,Excel,Art,99409
+60,Male,Diploma,Private,47,Divorced,Engineer,C++,Science,57336
+34,Female,High School,Unemployed,48,Single,Manager,Python,Science,69690
+62,Female,Bachelors,Self-employed,22,Widowed,Engineer,Public Speaking,Technology,93875
+60,Male,PhD,Freelancer,29,Single,Salesperson,Data Analysis,Technology,108112
+51,Female,Bachelors,Private,33,Divorced,Technician,Excel,Technology,60792
+26,Female,Masters,Self-employed,31,Divorced,Technician,Public Speaking,Business,104585
+43,Male,PhD,Private,49,Divorced,Teacher,Public Speaking,Education,103869
+19,Female,Masters,Freelancer,51,Married,Salesperson,Leadership,Technology,66542
+26,Female,PhD,Self-employed,51,Divorced,Engineer,Data Analysis,Education,140861
+26,Male,Diploma,Freelancer,51,Widowed,Artist,C++,Education,40354
+57,Female,Bachelors,Government,45,Married,Manager,Data Analysis,Health,92602
+34,Male,High School,Freelancer,20,Single,Salesperson,Data Analysis,Art,42754
+18,Female,PhD,Government,21,Widowed,Engineer,Python,Business,146429
+42,Male,PhD,Self-employed,36,Widowed,Technician,Communication,Education,107547
+60,Male,Masters,Government,49,Single,Technician,Public Speaking,Business,86996
+57,Male,Diploma,Self-employed,58,Married,Manager,C++,Health,95917
+59,Female,Masters,Self-employed,26,Widowed,Artist,Python,Technology,56311
+42,Male,Masters,Unemployed,46,Widowed,Engineer,Public Speaking,Science,124935
+56,Male,Diploma,Self-employed,28,Widowed,Engineer,Communication,Education,57895
+52,Male,High School,Government,41,Married,Artist,Python,Art,36375
+20,Male,Masters,Unemployed,53,Married,Artist,Communication,Science,67697
+54,Male,Masters,Unemployed,20,Married,Artist,Communication,Health,80684
+61,Female,PhD,Self-employed,28,Widowed,Technician,Communication,Business,122599
+61,Female,Diploma,Freelancer,39,Divorced,Manager,Python,Technology,86056
+47,Female,Bachelors,Freelancer,38,Single,Salesperson,Data Analysis,Business,65211
+55,Female,High School,Unemployed,55,Divorced,Artist,Communication,Art,37953
+51,Female,High School,Self-employed,59,Married,Manager,Data Analysis,Education,85853
+29,Female,Diploma,Freelancer,23,Widowed,Teacher,Public Speaking,Art,45073
+36,Female,PhD,Self-employed,28,Widowed,Engineer,Public Speaking,Business,112909
+54,Male,PhD,Self-employed,41,Divorced,Engineer,C++,Business,156157
+61,Female,Diploma,Unemployed,37,Divorced,Doctor,Leadership,Science,93792
+34,Male,PhD,Unemployed,31,Single,Teacher,Data Analysis,Art,109317
+27,Male,High School,Private,58,Widowed,Salesperson,Public Speaking,Art,46257
+64,Female,High School,Freelancer,28,Divorced,Artist,Leadership,Art,39909
+29,Male,Bachelors,Freelancer,25,Single,Artist,Communication,Technology,59080
+33,Male,Diploma,Freelancer,38,Married,Salesperson,Leadership,Business,51315
+41,Male,Masters,Government,26,Divorced,Technician,Leadership,Health,73596
+36,Male,Masters,Self-employed,35,Married,Teacher,Communication,Technology,76380
+25,Female,Bachelors,Unemployed,24,Single,Artist,Data Analysis,Technology,60771
+48,Female,Bachelors,Freelancer,35,Married,Doctor,Communication,Technology,104404
+38,Female,PhD,Private,20,Widowed,Manager,C++,Science,200098
+34,Female,Bachelors,Freelancer,56,Widowed,Engineer,Excel,Health,82811
+40,Female,Bachelors,Self-employed,58,Married,Teacher,Python,Art,64689
+54,Female,Masters,Self-employed,38,Widowed,Engineer,Communication,Science,110532
+33,Female,PhD,Unemployed,56,Single,Manager,Communication,Business,202427
+23,Female,Bachelors,Government,36,Widowed,Teacher,Leadership,Education,49514
+25,Female,Bachelors,Unemployed,45,Married,Manager,C++,Science,119931
+42,Female,PhD,Freelancer,41,Married,Artist,Public Speaking,Education,88476
+35,Male,Diploma,Private,27,Married,Salesperson,Public Speaking,Business,50455
+42,Female,PhD,Unemployed,52,Divorced,Artist,Leadership,Health,73577
+29,Male,Masters,Government,21,Married,Salesperson,Data Analysis,Education,72582
+32,Male,Diploma,Unemployed,49,Single,Artist,Communication,Technology,36754
+43,Male,High School,Self-employed,39,Widowed,Manager,Communication,Science,84481
+58,Male,PhD,Freelancer,37,Widowed,Manager,Leadership,Education,181107
+62,Female,Masters,Freelancer,29,Divorced,Manager,Communication,Business,161412
+43,Male,Diploma,Freelancer,43,Divorced,Engineer,Data Analysis,Technology,71204
+64,Female,PhD,Freelancer,23,Single,Manager,Excel,Education,162238
+49,Female,Bachelors,Freelancer,56,Married,Artist,Python,Business,59471
+27,Male,PhD,Freelancer,23,Divorced,Doctor,Python,Health,175288
+33,Female,High School,Private,32,Widowed,Manager,Python,Business,67880
+24,Male,PhD,Government,44,Divorced,Doctor,Excel,Health,222467
+34,Male,Diploma,Freelancer,32,Divorced,Salesperson,Communication,Technology,63047
+40,Female,Diploma,Government,37,Married,Artist,Leadership,Business,41974
+43,Female,PhD,Freelancer,43,Divorced,Manager,Public Speaking,Art,152962
+38,Male,Diploma,Unemployed,21,Single,Engineer,C++,Science,66304
+39,Female,Bachelors,Freelancer,52,Widowed,Engineer,Communication,Art,97086
+24,Female,PhD,Self-employed,38,Married,Salesperson,Excel,Art,120705
+31,Female,Bachelors,Private,28,Widowed,Doctor,Data Analysis,Art,138942
+32,Male,Bachelors,Unemployed,47,Single,Technician,Excel,Science,68735
+24,Male,Masters,Unemployed,54,Single,Engineer,Public Speaking,Art,124896
+26,Female,PhD,Self-employed,58,Divorced,Engineer,Python,Health,139787
+25,Female,Diploma,Freelancer,29,Divorced,Engineer,Communication,Business,69930
+40,Female,Bachelors,Private,20,Divorced,Artist,Public Speaking,Technology,63165
+46,Female,Masters,Unemployed,40,Widowed,Engineer,Python,Art,105809
+35,Female,PhD,Private,28,Single,Teacher,C++,Art,112045
+48,Male,PhD,Unemployed,34,Married,Manager,Data Analysis,Technology,196349
+47,Female,High School,Freelancer,54,Divorced,Salesperson,Python,Technology,36589
+56,Male,High School,Unemployed,24,Widowed,Engineer,C++,Art,58294
+52,Female,Bachelors,Unemployed,41,Divorced,Technician,Excel,Health,81283
+35,Male,High School,Government,42,Single,Technician,Python,Technology,48873
+59,Female,Bachelors,Freelancer,26,Married,Engineer,Python,Business,77992
+56,Male,Diploma,Self-employed,42,Single,Engineer,Leadership,Business,58241
+34,Female,Bachelors,Self-employed,44,Widowed,Teacher,Data Analysis,Health,63862
+31,Male,High School,Freelancer,46,Divorced,Engineer,Data Analysis,Science,51665
+48,Male,Diploma,Self-employed,25,Single,Engineer,Public Speaking,Education,72873
+41,Male,High School,Freelancer,53,Widowed,Manager,Excel,Health,69872
+52,Male,Bachelors,Self-employed,28,Divorced,Technician,Leadership,Art,77465
+61,Male,Masters,Government,52,Married,Teacher,Public Speaking,Education,70546
+62,Male,PhD,Self-employed,25,Single,Technician,C++,Art,98033
+51,Female,High School,Unemployed,56,Divorced,Teacher,Public Speaking,Business,45920
+20,Male,Bachelors,Freelancer,50,Divorced,Technician,C++,Technology,67753
+54,Female,Diploma,Private,53,Divorced,Engineer,Excel,Art,83948
+60,Female,High School,Private,48,Divorced,Technician,Data Analysis,Business,43671
+57,Female,High School,Freelancer,33,Single,Technician,C++,Health,57216
+43,Female,PhD,Government,55,Divorced,Teacher,Excel,Art,117916
+40,Female,Bachelors,Self-employed,55,Widowed,Salesperson,Public Speaking,Business,54781
+61,Male,Masters,Government,34,Single,Doctor,C++,Technology,158250
+56,Male,Diploma,Private,27,Divorced,Teacher,Communication,Art,47266
+32,Male,Bachelors,Freelancer,45,Single,Teacher,Python,Science,67226
+21,Female,Diploma,Freelancer,55,Widowed,Teacher,Public Speaking,Business,53588
+46,Male,High School,Government,40,Widowed,Artist,Data Analysis,Art,42520
+39,Male,PhD,Government,47,Single,Salesperson,Public Speaking,Technology,94282
+42,Male,PhD,Self-employed,23,Divorced,Artist,Communication,Art,93872
+30,Male,Masters,Unemployed,35,Divorced,Artist,Excel,Art,75095
+35,Male,PhD,Unemployed,41,Widowed,Teacher,Excel,Science,81391
+50,Female,High School,Self-employed,31,Divorced,Doctor,Public Speaking,Business,66151
+33,Male,Masters,Unemployed,35,Widowed,Teacher,Communication,Education,83355
+62,Female,Bachelors,Private,59,Divorced,Engineer,Public Speaking,Art,79508
+59,Female,PhD,Unemployed,57,Widowed,Doctor,Python,Education,190628
+61,Female,Masters,Self-employed,56,Married,Artist,Python,Health,69315
+19,Female,High School,Unemployed,48,Divorced,Technician,Leadership,Art,50017
+52,Female,Diploma,Freelancer,37,Divorced,Technician,C++,Education,64297
+59,Male,Diploma,Government,29,Divorced,Salesperson,Leadership,Health,64874
+51,Male,High School,Private,58,Single,Manager,Python,Science,68313
+47,Male,High School,Freelancer,37,Divorced,Salesperson,Communication,Business,48630
+30,Female,Diploma,Freelancer,20,Single,Doctor,C++,Art,102956
+30,Male,Masters,Self-employed,58,Single,Artist,Communication,Business,68295
+35,Male,Diploma,Government,40,Widowed,Doctor,Leadership,Health,95921
+49,Female,High School,Government,20,Single,Doctor,Excel,Business,84785
+49,Female,PhD,Private,34,Single,Technician,Communication,Business,107981
+52,Female,Bachelors,Self-employed,23,Married,Teacher,Leadership,Technology,50722
+56,Female,PhD,Private,39,Divorced,Engineer,Leadership,Health,153197
+63,Male,PhD,Unemployed,29,Single,Manager,Leadership,Business,179931
+46,Female,High School,Freelancer,42,Divorced,Artist,Excel,Education,34372
+46,Female,Diploma,Private,53,Single,Doctor,Excel,Health,102466
+61,Male,Masters,Freelancer,52,Widowed,Manager,Public Speaking,Technology,122135
+33,Male,PhD,Self-employed,53,Married,Doctor,Excel,Art,180823
+61,Female,Diploma,Unemployed,58,Single,Technician,C++,Science,58710
+64,Male,Masters,Self-employed,29,Divorced,Engineer,Excel,Business,125847
+27,Female,PhD,Unemployed,39,Widowed,Technician,Excel,Education,109707
+47,Female,Masters,Unemployed,20,Divorced,Manager,Excel,Technology,157489
+42,Male,Diploma,Freelancer,32,Widowed,Artist,Communication,Health,44841
+56,Male,Bachelors,Self-employed,20,Married,Doctor,Excel,Science,101886
+37,Female,Diploma,Self-employed,24,Widowed,Engineer,C++,Science,79879
+22,Female,High School,Private,35,Divorced,Technician,Leadership,Business,47079
+18,Female,Masters,Self-employed,34,Divorced,Manager,Communication,Technology,156528
+47,Male,Bachelors,Private,47,Single,Technician,Python,Technology,70419
+20,Female,Masters,Government,50,Widowed,Doctor,Excel,Education,125267
+62,Female,Masters,Government,42,Divorced,Doctor,Public Speaking,Art,160915
+31,Female,PhD,Government,36,Single,Artist,Public Speaking,Art,102438
+47,Female,High School,Self-employed,53,Married,Engineer,Leadership,Art,51958
+21,Female,Masters,Self-employed,32,Divorced,Teacher,Leadership,Science,70422
+35,Male,Diploma,Private,33,Single,Technician,Communication,Science,49558
+54,Female,Diploma,Unemployed,30,Divorced,Doctor,Public Speaking,Health,101686
+42,Female,PhD,Private,47,Widowed,Manager,Python,Science,208175
+18,Female,High School,Government,51,Single,Technician,Data Analysis,Science,54746
+63,Female,High School,Private,54,Widowed,Artist,Public Speaking,Technology,39050
+32,Male,Diploma,Unemployed,50,Married,Artist,Public Speaking,Health,52691
+26,Male,Bachelors,Self-employed,36,Widowed,Doctor,C++,Technology,126609
+32,Male,PhD,Private,28,Single,Doctor,Data Analysis,Education,223495
+41,Female,PhD,Government,29,Divorced,Doctor,Leadership,Education,200700
+21,Female,Diploma,Government,27,Single,Salesperson,Data Analysis,Health,46669
+29,Male,Diploma,Self-employed,40,Widowed,Teacher,Public Speaking,Health,44019
+54,Male,Bachelors,Private,32,Widowed,Doctor,Leadership,Science,102666
+54,Male,Bachelors,Unemployed,24,Divorced,Technician,Data Analysis,Education,80362
+60,Female,High School,Self-employed,25,Married,Technician,Leadership,Business,38904
+23,Female,PhD,Private,49,Single,Salesperson,Leadership,Art,112376
+56,Male,PhD,Freelancer,50,Divorced,Salesperson,Communication,Science,104232
+63,Male,Diploma,Government,36,Divorced,Engineer,Python,Art,78502
+41,Male,High School,Unemployed,30,Divorced,Manager,Leadership,Education,73487
+28,Female,PhD,Unemployed,39,Single,Doctor,C++,Art,208955
+30,Female,High School,Unemployed,28,Single,Technician,Public Speaking,Business,40055
+51,Female,High School,Government,21,Single,Salesperson,Public Speaking,Business,40643
+42,Male,Diploma,Private,56,Married,Technician,C++,Technology,71990
+24,Male,High School,Self-employed,20,Divorced,Technician,Excel,Health,52202
+21,Female,Bachelors,Private,23,Widowed,Salesperson,Leadership,Art,66678
+25,Male,Bachelors,Self-employed,55,Widowed,Teacher,Leadership,Business,66459
+37,Female,Masters,Unemployed,44,Divorced,Salesperson,Leadership,Health,93170
+46,Male,Diploma,Private,22,Widowed,Salesperson,Data Analysis,Health,45622
+62,Male,Masters,Unemployed,28,Married,Manager,Leadership,Technology,160508
+63,Male,Bachelors,Freelancer,41,Married,Salesperson,Leadership,Health,69757
+27,Male,Masters,Unemployed,42,Single,Artist,C++,Health,66149
+60,Female,Diploma,Unemployed,31,Single,Salesperson,Python,Science,58962
+51,Male,Diploma,Self-employed,29,Single,Technician,Python,Education,56268
+43,Female,High School,Freelancer,53,Single,Doctor,Excel,Technology,92094
+58,Female,PhD,Unemployed,29,Single,Technician,C++,Technology,133452
+20,Female,High School,Unemployed,49,Widowed,Manager,Leadership,Art,76026
+23,Male,Diploma,Freelancer,41,Widowed,Artist,Python,Health,39275
+22,Female,Bachelors,Freelancer,25,Single,Salesperson,Communication,Art,78309
+22,Female,Bachelors,Private,21,Married,Teacher,Communication,Science,58382
+64,Female,High School,Self-employed,49,Widowed,Engineer,Communication,Business,65199
+40,Male,Diploma,Freelancer,21,Married,Salesperson,Leadership,Health,45219
+26,Male,Bachelors,Freelancer,51,Married,Doctor,Leadership,Business,101959
+52,Female,Diploma,Government,35,Divorced,Engineer,Excel,Education,60284
+37,Male,Bachelors,Freelancer,31,Divorced,Teacher,Public Speaking,Science,51951
+59,Female,Diploma,Self-employed,20,Single,Manager,Excel,Health,83615
+52,Female,Masters,Unemployed,27,Married,Manager,Excel,Art,146303
+35,Male,Diploma,Unemployed,32,Widowed,Teacher,Data Analysis,Art,46920
+34,Female,Diploma,Unemployed,34,Divorced,Technician,Communication,Health,70581
+41,Male,High School,Unemployed,27,Divorced,Teacher,Leadership,Art,46318
+20,Male,Masters,Government,29,Married,Salesperson,Communication,Health,93915
+49,Female,PhD,Freelancer,24,Divorced,Doctor,Excel,Technology,180048
+52,Male,High School,Unemployed,38,Divorced,Artist,Leadership,Art,37944
+55,Male,PhD,Private,57,Widowed,Salesperson,C++,Health,112237
+30,Female,Bachelors,Unemployed,30,Married,Salesperson,Python,Health,56104
+64,Female,PhD,Freelancer,39,Divorced,Salesperson,Python,Art,101324
+42,Male,Diploma,Unemployed,39,Married,Engineer,Excel,Technology,70937
+26,Male,PhD,Government,40,Divorced,Engineer,Public Speaking,Art,140144
+21,Female,High School,Self-employed,37,Widowed,Manager,Communication,Health,62456
+31,Male,High School,Self-employed,29,Married,Salesperson,C++,Technology,51772
+54,Male,PhD,Freelancer,53,Divorced,Technician,Leadership,Business,103401
+51,Male,High School,Self-employed,45,Widowed,Manager,Public Speaking,Education,76571
+28,Male,High School,Self-employed,49,Divorced,Doctor,Communication,Art,87060
+58,Male,PhD,Private,28,Married,Teacher,Excel,Science,104205
+20,Male,Masters,Freelancer,50,Divorced,Engineer,Communication,Health,119386
+45,Male,Masters,Freelancer,23,Married,Salesperson,Excel,Technology,84599
+46,Female,Bachelors,Self-employed,25,Married,Doctor,Data Analysis,Technology,135611
+26,Female,High School,Self-employed,33,Divorced,Manager,Python,Business,58417
+20,Female,PhD,Self-employed,23,Widowed,Manager,Public Speaking,Art,147273
+42,Female,High School,Government,45,Single,Engineer,Python,Science,59168
+51,Female,Diploma,Unemployed,58,Widowed,Manager,Communication,Technology,92763
+29,Male,High School,Government,36,Widowed,Technician,C++,Business,50901
+59,Male,High School,Freelancer,38,Divorced,Manager,Leadership,Health,79688
+26,Male,Masters,Private,25,Widowed,Artist,Excel,Business,65247
+32,Male,PhD,Unemployed,48,Widowed,Teacher,Leadership,Art,105559
+57,Female,High School,Private,30,Single,Manager,Python,Business,71943
+42,Male,Masters,Freelancer,35,Widowed,Artist,C++,Technology,70933
+22,Male,Bachelors,Freelancer,49,Single,Doctor,C++,Technology,109904
+28,Female,Masters,Private,44,Divorced,Manager,Leadership,Education,159659
+51,Male,Masters,Private,59,Single,Technician,Python,Business,89386
+41,Male,Masters,Private,30,Married,Doctor,Leadership,Health,168281
+32,Female,High School,Freelancer,26,Married,Salesperson,Communication,Science,47255
+55,Male,High School,Self-employed,45,Single,Manager,C++,Science,66166
+25,Male,Bachelors,Private,41,Married,Engineer,C++,Art,69651
+22,Male,Diploma,Unemployed,44,Divorced,Artist,Communication,Education,37078
+43,Male,Diploma,Freelancer,38,Married,Artist,Python,Business,43912
+35,Male,Diploma,Government,50,Single,Engineer,C++,Health,69559
+23,Female,Bachelors,Government,45,Divorced,Teacher,Public Speaking,Education,52896
+54,Female,Diploma,Unemployed,55,Married,Salesperson,Data Analysis,Technology,57346
+30,Female,Diploma,Self-employed,42,Divorced,Technician,Data Analysis,Art,55501
+45,Female,Masters,Private,32,Single,Artist,Data Analysis,Business,73395
+22,Female,High School,Freelancer,44,Married,Doctor,Excel,Science,87494
+30,Female,High School,Private,21,Divorced,Technician,Public Speaking,Health,54926
+34,Male,Masters,Freelancer,21,Divorced,Artist,Excel,Technology,80335
+57,Female,Masters,Government,35,Married,Salesperson,Python,Education,70315
+62,Female,Masters,Private,28,Divorced,Teacher,Communication,Art,71116
+49,Male,High School,Unemployed,47,Divorced,Salesperson,Leadership,Education,45085
+46,Male,Diploma,Self-employed,32,Single,Doctor,Public Speaking,Science,92764
+20,Female,Masters,Unemployed,54,Single,Salesperson,Python,Education,81393
+57,Male,Bachelors,Self-employed,32,Single,Technician,Leadership,Health,65303
+51,Female,Masters,Private,50,Single,Doctor,Python,Technology,134875
+57,Male,PhD,Private,40,Single,Engineer,Excel,Business,117421
+44,Female,Masters,Self-employed,51,Single,Manager,Data Analysis,Health,123671
+30,Male,High School,Government,53,Married,Engineer,Communication,Science,53404
+62,Male,Masters,Freelancer,27,Single,Technician,Excel,Art,94153
+50,Female,PhD,Unemployed,21,Divorced,Manager,Communication,Science,161875
+23,Female,Bachelors,Unemployed,57,Married,Engineer,Public Speaking,Science,96274
+41,Female,Diploma,Unemployed,51,Divorced,Manager,Leadership,Education,77749
+36,Female,Masters,Private,59,Single,Artist,Python,Art,62840
+33,Female,PhD,Unemployed,47,Single,Salesperson,C++,Health,113418
+57,Male,PhD,Freelancer,56,Divorced,Doctor,C++,Science,185017
+45,Female,Bachelors,Freelancer,20,Divorced,Manager,Communication,Health,119366
+50,Female,High School,Self-employed,29,Divorced,Artist,Data Analysis,Business,35975
+58,Male,Masters,Private,23,Widowed,Salesperson,Data Analysis,Education,82985
+30,Male,PhD,Freelancer,54,Widowed,Salesperson,Communication,Health,109945
+60,Female,Bachelors,Government,29,Widowed,Teacher,Excel,Art,55404
+62,Male,Diploma,Private,30,Widowed,Engineer,C++,Science,56648
+42,Male,PhD,Private,33,Married,Teacher,Excel,Business,117809
+59,Female,Bachelors,Freelancer,57,Single,Technician,Leadership,Art,72156
+53,Male,High School,Government,31,Divorced,Artist,C++,Education,42720
+44,Male,High School,Self-employed,36,Single,Teacher,Leadership,Business,35442
+55,Female,PhD,Freelancer,35,Divorced,Teacher,Python,Business,94115
+24,Female,PhD,Government,54,Single,Salesperson,Excel,Business,90223
+22,Male,Masters,Private,21,Married,Artist,Communication,Science,67362
+60,Male,Bachelors,Government,30,Widowed,Salesperson,C++,Technology,76093
+62,Female,PhD,Private,22,Single,Doctor,Excel,Business,212340
+48,Male,Masters,Freelancer,48,Divorced,Manager,Communication,Art,133411
+40,Male,Masters,Freelancer,37,Single,Technician,Python,Art,91320
+59,Male,PhD,Unemployed,39,Married,Technician,C++,Education,136664
+27,Female,High School,Unemployed,33,Married,Engineer,Leadership,Health,54452
+49,Male,Bachelors,Unemployed,53,Single,Salesperson,Python,Health,76096
+60,Male,Bachelors,Freelancer,50,Widowed,Manager,Data Analysis,Technology,117828
+47,Female,High School,Self-employed,59,Divorced,Engineer,Communication,Science,61910
+56,Male,PhD,Freelancer,37,Married,Technician,C++,Science,113564
+48,Male,Bachelors,Government,49,Married,Manager,C++,Business,103705
+35,Female,PhD,Freelancer,44,Single,Teacher,Public Speaking,Technology,102811
+53,Female,PhD,Freelancer,38,Married,Doctor,Public Speaking,Education,175572
+19,Female,Masters,Private,27,Married,Teacher,Python,Education,76596
+31,Female,High School,Private,47,Divorced,Doctor,C++,Health,66353
+30,Male,PhD,Private,27,Widowed,Salesperson,Communication,Education,110187
+46,Male,Diploma,Freelancer,50,Divorced,Artist,Python,Business,49759
+29,Female,High School,Self-employed,22,Widowed,Engineer,Leadership,Art,51065
+56,Female,Bachelors,Government,22,Divorced,Engineer,Python,Education,100433
+19,Male,Masters,Government,41,Single,Artist,Python,Technology,72370
+49,Female,Bachelors,Self-employed,36,Married,Manager,Leadership,Business,91532
+30,Male,Bachelors,Self-employed,55,Widowed,Artist,Data Analysis,Education,64261
+63,Female,High School,Government,36,Single,Salesperson,Public Speaking,Science,42132
+44,Male,Bachelors,Unemployed,33,Married,Technician,Communication,Education,80493
+58,Female,PhD,Private,28,Married,Artist,Data Analysis,Science,84207
+34,Female,Bachelors,Private,49,Married,Doctor,Data Analysis,Business,141069
+57,Male,Masters,Government,40,Divorced,Technician,Data Analysis,Education,99178
+48,Female,Masters,Self-employed,31,Single,Artist,Public Speaking,Science,59374
+51,Male,Diploma,Unemployed,56,Single,Engineer,Excel,Art,70255
+41,Male,Masters,Government,51,Married,Teacher,Public Speaking,Health,75002
+62,Male,Bachelors,Private,30,Widowed,Doctor,Data Analysis,Business,98174
+52,Male,Masters,Freelancer,39,Single,Salesperson,Excel,Science,70522
+23,Male,High School,Self-employed,54,Divorced,Doctor,Leadership,Technology,74657
+36,Female,Masters,Freelancer,30,Widowed,Manager,Public Speaking,Education,133582
+47,Female,PhD,Government,27,Widowed,Teacher,Communication,Science,98279
+24,Male,High School,Private,23,Widowed,Doctor,Data Analysis,Science,83400
+27,Female,Diploma,Unemployed,46,Widowed,Artist,C++,Science,45279
+58,Male,PhD,Freelancer,59,Single,Doctor,Leadership,Health,186237
+49,Female,Bachelors,Unemployed,57,Married,Doctor,Excel,Technology,125427
+51,Female,Bachelors,Private,49,Widowed,Doctor,Public Speaking,Technology,103800
+45,Female,Bachelors,Freelancer,46,Divorced,Manager,Communication,Art,129194
+32,Female,PhD,Unemployed,40,Divorced,Doctor,Python,Health,219145
+47,Male,PhD,Unemployed,39,Married,Doctor,Communication,Science,183938
+54,Male,PhD,Freelancer,23,Single,Manager,Communication,Business,168218
+46,Female,High School,Private,30,Married,Technician,Data Analysis,Health,54303
+39,Female,High School,Unemployed,32,Widowed,Teacher,Data Analysis,Health,40517
+21,Male,Bachelors,Government,28,Single,Salesperson,Public Speaking,Technology,71510
+37,Female,Masters,Freelancer,23,Single,Technician,Public Speaking,Art,82792
+49,Male,Bachelors,Self-employed,31,Widowed,Engineer,Excel,Art,94609
+53,Male,Diploma,Self-employed,28,Divorced,Manager,Public Speaking,Health,85260
+21,Male,High School,Private,32,Widowed,Manager,Excel,Health,77005
+44,Female,PhD,Government,45,Married,Doctor,Data Analysis,Education,238391
+34,Male,High School,Unemployed,57,Widowed,Doctor,Data Analysis,Science,82678
+29,Female,PhD,Self-employed,32,Divorced,Salesperson,C++,Technology,123057
+39,Male,Diploma,Private,58,Widowed,Engineer,C++,Science,76309
+34,Female,Diploma,Government,47,Married,Doctor,Leadership,Business,107521
+27,Female,High School,Government,38,Married,Artist,Data Analysis,Business,29183
+18,Female,PhD,Private,43,Divorced,Doctor,Python,Art,197967
+39,Male,Diploma,Private,38,Married,Doctor,C++,Technology,118682
+43,Male,Bachelors,Unemployed,32,Married,Artist,Excel,Science,60110
+35,Female,Bachelors,Private,32,Widowed,Engineer,Communication,Art,93279
+31,Female,PhD,Unemployed,47,Single,Artist,Public Speaking,Business,92794
+64,Female,High School,Unemployed,21,Married,Manager,Public Speaking,Health,78376
+46,Male,Diploma,Freelancer,29,Married,Artist,Leadership,Technology,46503
+29,Male,High School,Government,41,Divorced,Teacher,C++,Technology,34728
+53,Male,Bachelors,Government,32,Divorced,Manager,Communication,Science,113573
+52,Male,Diploma,Government,28,Widowed,Doctor,Communication,Education,104789
+29,Female,High School,Freelancer,52,Widowed,Salesperson,C++,Science,50004
+24,Female,Masters,Unemployed,33,Married,Manager,Python,Health,115979
+46,Male,PhD,Unemployed,39,Single,Engineer,Python,Health,150120
+28,Male,PhD,Private,34,Single,Engineer,Leadership,Art,113767
+50,Female,Masters,Freelancer,51,Widowed,Artist,Python,Technology,79601
+23,Male,Bachelors,Private,52,Divorced,Manager,Leadership,Art,91147
+64,Male,Diploma,Freelancer,36,Married,Doctor,Excel,Health,80757
+32,Male,PhD,Private,43,Married,Engineer,C++,Education,129566
+49,Male,Masters,Self-employed,49,Single,Technician,Communication,Technology,77451
+28,Male,Masters,Government,32,Widowed,Doctor,Leadership,Health,161430
+40,Male,Bachelors,Government,35,Single,Technician,Public Speaking,Education,69418
+43,Female,Bachelors,Unemployed,21,Single,Teacher,Python,Science,66599
+51,Male,High School,Self-employed,36,Widowed,Technician,Public Speaking,Business,56074
+63,Male,PhD,Government,51,Divorced,Engineer,Leadership,Health,160877
+51,Female,High School,Unemployed,27,Married,Artist,Data Analysis,Business,39396
+46,Female,Masters,Self-employed,22,Divorced,Teacher,Leadership,Art,61868
+21,Female,Diploma,Government,31,Widowed,Manager,Python,Business,76970
+34,Male,Diploma,Private,39,Widowed,Doctor,Data Analysis,Health,88293
+52,Female,Bachelors,Freelancer,35,Married,Engineer,Data Analysis,Business,78121
+30,Male,Diploma,Self-employed,33,Divorced,Teacher,Python,Technology,53244
+58,Male,Diploma,Unemployed,35,Married,Teacher,Data Analysis,Health,50509
+56,Male,Diploma,Self-employed,52,Single,Engineer,C++,Education,64785
+32,Female,Masters,Unemployed,49,Single,Manager,Communication,Business,117351
+46,Female,Diploma,Self-employed,31,Single,Manager,Public Speaking,Technology,104836
+46,Female,Diploma,Unemployed,34,Divorced,Artist,C++,Art,42161
+28,Female,Diploma,Government,37,Single,Salesperson,C++,Art,51794
+49,Female,High School,Private,47,Married,Technician,Python,Business,53222
+19,Male,Masters,Government,42,Divorced,Manager,Python,Art,146929
+64,Male,Bachelors,Private,33,Married,Artist,Public Speaking,Education,57095
+31,Male,High School,Government,49,Widowed,Technician,Communication,Health,51711
+37,Male,PhD,Government,52,Divorced,Teacher,Leadership,Technology,104403
+39,Female,Masters,Self-employed,34,Married,Engineer,C++,Science,92075
+28,Female,Masters,Freelancer,26,Married,Manager,Data Analysis,Business,121312
+44,Male,PhD,Unemployed,34,Divorced,Artist,Communication,Art,92091
+20,Female,PhD,Unemployed,57,Widowed,Teacher,C++,Health,88994
+34,Female,PhD,Unemployed,30,Divorced,Manager,Leadership,Science,214049
+61,Male,Bachelors,Private,48,Single,Doctor,Data Analysis,Education,110285
+45,Male,Diploma,Unemployed,50,Single,Salesperson,C++,Art,50358
+46,Female,Masters,Unemployed,44,Widowed,Teacher,Excel,Art,66218
+38,Female,Diploma,Self-employed,43,Married,Manager,Public Speaking,Technology,97379
+64,Male,Diploma,Government,38,Married,Teacher,Communication,Education,46340
+33,Male,PhD,Unemployed,21,Married,Engineer,Public Speaking,Education,131532
+54,Male,Bachelors,Freelancer,41,Divorced,Engineer,Python,Business,98572
+37,Female,High School,Unemployed,39,Divorced,Salesperson,C++,Science,49199
+23,Male,Bachelors,Private,52,Widowed,Engineer,Data Analysis,Technology,76388
+36,Male,Diploma,Private,27,Single,Technician,Data Analysis,Business,50924
+22,Female,Bachelors,Private,44,Married,Doctor,Communication,Technology,128477
+20,Female,PhD,Unemployed,28,Single,Engineer,Communication,Education,133262
+18,Female,High School,Self-employed,53,Divorced,Doctor,Public Speaking,Technology,95365
+55,Female,PhD,Freelancer,42,Divorced,Engineer,Data Analysis,Technology,157829
+32,Female,High School,Unemployed,24,Divorced,Technician,Data Analysis,Technology,56728
+51,Male,Diploma,Self-employed,44,Single,Teacher,Data Analysis,Health,56092
+52,Male,High School,Self-employed,27,Widowed,Manager,C++,Health,65965
+42,Female,High School,Unemployed,35,Widowed,Manager,Data Analysis,Science,65883
+41,Female,High School,Unemployed,34,Divorced,Engineer,Python,Science,60796
+29,Female,Bachelors,Self-employed,20,Married,Manager,Data Analysis,Education,101362
+35,Female,Bachelors,Self-employed,41,Single,Engineer,Python,Technology,82063
+32,Female,Diploma,Self-employed,22,Divorced,Engineer,C++,Education,63180
+61,Male,High School,Unemployed,57,Single,Salesperson,Communication,Health,43631
+33,Male,Masters,Self-employed,33,Single,Artist,Python,Technology,59455
+44,Male,Diploma,Private,55,Widowed,Artist,C++,Business,45694
+25,Male,High School,Unemployed,37,Divorced,Salesperson,Data Analysis,Health,51621
+63,Female,High School,Private,37,Widowed,Artist,C++,Health,38824
+42,Male,Bachelors,Government,22,Divorced,Doctor,Data Analysis,Health,102589
+34,Female,Diploma,Unemployed,29,Single,Artist,Public Speaking,Technology,47082
+46,Female,High School,Government,58,Widowed,Engineer,C++,Science,57945
+25,Female,High School,Self-employed,20,Single,Technician,Communication,Art,43055
+32,Male,Diploma,Self-employed,46,Divorced,Technician,Python,Business,64076
+44,Female,Masters,Freelancer,46,Married,Teacher,Public Speaking,Business,75931
+63,Male,Diploma,Self-employed,30,Widowed,Artist,Communication,Education,47483
+24,Male,Diploma,Government,24,Widowed,Technician,Excel,Technology,49259
+20,Female,Masters,Self-employed,26,Single,Artist,Data Analysis,Science,65159
+46,Female,Diploma,Unemployed,38,Single,Teacher,Python,Health,54347
+61,Female,High School,Self-employed,48,Married,Technician,Communication,Art,40330
+41,Male,Diploma,Freelancer,34,Widowed,Engineer,Python,Technology,77581
+20,Female,Masters,Self-employed,54,Divorced,Doctor,Excel,Technology,120310
+37,Male,PhD,Government,56,Divorced,Salesperson,Leadership,Science,112215
+63,Female,Diploma,Government,31,Widowed,Salesperson,Data Analysis,Art,64440
+32,Female,Bachelors,Self-employed,49,Widowed,Salesperson,Data Analysis,Health,63542
+42,Male,High School,Government,39,Widowed,Artist,C++,Technology,42264
+47,Male,High School,Government,56,Married,Technician,Data Analysis,Business,55265
+31,Male,Bachelors,Freelancer,22,Divorced,Technician,Data Analysis,Business,71350
+24,Male,Bachelors,Unemployed,28,Divorced,Teacher,Communication,Art,52786
+34,Male,Diploma,Freelancer,58,Single,Engineer,Public Speaking,Health,82989
+61,Male,Bachelors,Private,45,Single,Manager,Data Analysis,Art,100274
+37,Female,PhD,Freelancer,21,Widowed,Technician,Data Analysis,Technology,127003
+53,Female,Masters,Self-employed,42,Single,Doctor,Excel,Business,174476
+26,Male,Bachelors,Unemployed,42,Married,Teacher,Public Speaking,Education,50147
+55,Female,Bachelors,Self-employed,40,Divorced,Technician,Excel,Art,74135
+39,Male,PhD,Private,35,Divorced,Technician,Python,Education,121687
+19,Female,High School,Unemployed,28,Single,Teacher,Python,Education,43569
+41,Female,High School,Government,32,Widowed,Teacher,Data Analysis,Science,46986
+25,Male,Diploma,Freelancer,47,Single,Artist,Data Analysis,Business,52438
+28,Male,PhD,Self-employed,46,Widowed,Technician,C++,Art,104403
+30,Male,Masters,Private,36,Married,Manager,Python,Education,155641
+34,Female,Masters,Government,57,Divorced,Doctor,Communication,Technology,130547
+25,Male,PhD,Freelancer,55,Married,Engineer,Data Analysis,Science,163499
+38,Female,Masters,Government,20,Divorced,Engineer,Communication,Health,125881
+35,Male,High School,Freelancer,37,Married,Manager,Data Analysis,Science,69033
+47,Female,Masters,Unemployed,28,Single,Teacher,Communication,Health,74861
+35,Female,Masters,Government,32,Married,Teacher,Leadership,Business,88098
+63,Male,PhD,Government,59,Married,Teacher,Communication,Art,118485
+64,Female,PhD,Government,34,Single,Technician,Public Speaking,Art,140449
+48,Female,Masters,Unemployed,23,Divorced,Teacher,Python,Health,86302
+55,Male,Bachelors,Private,52,Divorced,Teacher,Data Analysis,Technology,48222
+49,Female,PhD,Freelancer,43,Single,Technician,Python,Health,123262
+28,Male,Diploma,Government,55,Married,Technician,Public Speaking,Health,50575
+62,Male,Diploma,Unemployed,29,Married,Manager,Public Speaking,Art,107387
+42,Male,High School,Private,55,Married,Artist,Communication,Education,32897
+50,Male,Masters,Freelancer,39,Widowed,Technician,Excel,Technology,107607
+55,Female,Bachelors,Unemployed,30,Divorced,Doctor,Excel,Art,122078
+58,Female,High School,Freelancer,31,Married,Teacher,Public Speaking,Science,39902
+25,Female,Masters,Government,37,Divorced,Artist,Excel,Health,79341
+28,Male,PhD,Private,49,Married,Engineer,Data Analysis,Education,159659
+39,Female,Diploma,Unemployed,56,Single,Manager,C++,Technology,88848
+41,Female,Bachelors,Private,39,Single,Artist,Leadership,Business,47364
+58,Male,Diploma,Government,44,Divorced,Technician,Communication,Technology,50703
+34,Male,PhD,Private,31,Divorced,Teacher,C++,Technology,86499
+29,Female,Masters,Private,40,Single,Teacher,Excel,Health,73767
+63,Male,PhD,Self-employed,44,Widowed,Teacher,Communication,Health,90290
+49,Male,PhD,Private,30,Single,Artist,C++,Business,78703
+32,Male,Diploma,Freelancer,28,Married,Teacher,Python,Business,54732
+33,Male,Bachelors,Unemployed,44,Widowed,Technician,Excel,Business,80374
+39,Female,PhD,Self-employed,54,Single,Artist,C++,Art,92440
+45,Male,Diploma,Unemployed,51,Widowed,Teacher,Data Analysis,Art,55145
+37,Male,Bachelors,Unemployed,33,Widowed,Engineer,Python,Health,73096
+50,Male,Masters,Government,20,Widowed,Engineer,Excel,Health,119958
+27,Male,Masters,Government,36,Divorced,Doctor,Leadership,Business,173822
+57,Male,High School,Self-employed,44,Single,Teacher,Public Speaking,Art,45231
+49,Male,Diploma,Government,27,Divorced,Teacher,Excel,Education,50305
+50,Male,Bachelors,Government,24,Divorced,Artist,Data Analysis,Art,45073
+19,Male,PhD,Government,24,Married,Artist,Leadership,Health,96093
+50,Female,Masters,Unemployed,54,Married,Salesperson,Leadership,Art,72097
+50,Male,Bachelors,Self-employed,38,Widowed,Teacher,Leadership,Health,51374
+58,Female,Diploma,Unemployed,42,Widowed,Doctor,Communication,Business,92944
+30,Male,High School,Freelancer,28,Married,Teacher,Communication,Business,35968
+47,Male,Masters,Unemployed,49,Married,Technician,Public Speaking,Business,81388
+50,Male,Bachelors,Freelancer,35,Single,Artist,Leadership,Education,48287
+30,Male,Bachelors,Private,52,Widowed,Teacher,Public Speaking,Education,66090
+43,Female,Bachelors,Private,21,Widowed,Artist,Python,Health,63807
+39,Male,Diploma,Freelancer,33,Married,Teacher,Leadership,Technology,46038
+56,Male,Diploma,Freelancer,20,Single,Manager,C++,Science,98023
+19,Female,Diploma,Unemployed,45,Married,Artist,Leadership,Education,36205
+55,Female,PhD,Freelancer,44,Married,Doctor,Communication,Health,212294
+56,Male,Bachelors,Self-employed,35,Divorced,Manager,Communication,Art,116327
+43,Female,Masters,Private,34,Widowed,Technician,C++,Business,74236
+63,Female,Diploma,Private,45,Single,Teacher,C++,Business,42364
+32,Female,Diploma,Freelancer,35,Divorced,Salesperson,Excel,Business,50749
+51,Male,Bachelors,Government,33,Widowed,Technician,Python,Health,69275
+59,Male,Diploma,Government,48,Married,Artist,Python,Business,45045
+61,Male,PhD,Freelancer,43,Single,Manager,Python,Education,208448
+57,Female,PhD,Self-employed,34,Widowed,Technician,Data Analysis,Art,129770
+28,Male,Diploma,Government,38,Married,Doctor,Communication,Business,92439
+20,Female,Bachelors,Freelancer,27,Divorced,Salesperson,Python,Health,55899
+23,Male,Bachelors,Self-employed,53,Single,Artist,Excel,Art,62988
+26,Male,Bachelors,Self-employed,21,Widowed,Manager,Excel,Business,99145
+23,Female,High School,Unemployed,46,Divorced,Technician,Python,Technology,50200
+26,Male,Diploma,Self-employed,29,Married,Manager,C++,Business,79888
+56,Female,Bachelors,Government,54,Married,Manager,Excel,Science,92170
+48,Female,PhD,Government,42,Widowed,Technician,Public Speaking,Education,103352
+49,Male,Masters,Freelancer,27,Married,Engineer,C++,Art,115404
+58,Female,Masters,Freelancer,47,Single,Teacher,Public Speaking,Education,78172
+29,Male,Bachelors,Self-employed,42,Widowed,Artist,Communication,Technology,52182
+25,Male,Masters,Private,23,Divorced,Artist,Data Analysis,Technology,68829
+25,Female,Masters,Unemployed,33,Widowed,Salesperson,Excel,Science,81537
+45,Male,High School,Private,48,Widowed,Salesperson,C++,Education,44660
+37,Female,PhD,Self-employed,20,Divorced,Salesperson,Public Speaking,Art,117220
+64,Male,PhD,Self-employed,23,Married,Artist,Python,Technology,79862
+24,Male,High School,Private,51,Divorced,Manager,Public Speaking,Technology,64727
+28,Male,High School,Unemployed,52,Single,Salesperson,Public Speaking,Business,48483
+37,Male,Masters,Private,45,Married,Technician,Communication,Science,103432
+33,Male,Diploma,Freelancer,36,Widowed,Teacher,Leadership,Health,41637
+21,Female,Masters,Government,58,Married,Doctor,Leadership,Technology,146804
+23,Female,High School,Freelancer,42,Married,Artist,Python,Art,38934
+39,Female,PhD,Government,51,Single,Technician,Communication,Art,99748
+43,Female,Masters,Self-employed,34,Married,Teacher,Communication,Business,76925
+20,Female,Diploma,Unemployed,32,Married,Teacher,Communication,Art,41235
+58,Female,Masters,Private,21,Married,Engineer,Communication,Business,107001
+59,Male,Bachelors,Unemployed,38,Widowed,Technician,Leadership,Technology,72158
+31,Male,Masters,Private,43,Married,Artist,C++,Technology,69462
+28,Female,High School,Freelancer,43,Divorced,Salesperson,Communication,Technology,37837
+35,Female,PhD,Freelancer,30,Married,Manager,C++,Technology,167624
+29,Male,PhD,Private,41,Single,Salesperson,Public Speaking,Health,110895
+40,Male,High School,Unemployed,34,Married,Teacher,Public Speaking,Science,33859
+29,Male,Bachelors,Private,29,Married,Teacher,Communication,Science,52929
+30,Female,High School,Self-employed,46,Widowed,Doctor,Excel,Health,82660
+42,Female,Masters,Freelancer,28,Divorced,Salesperson,Data Analysis,Technology,69001
+62,Female,High School,Self-employed,47,Married,Engineer,Excel,Art,56232
+36,Male,High School,Freelancer,20,Divorced,Teacher,Public Speaking,Business,44939
+63,Male,Bachelors,Freelancer,36,Single,Teacher,Data Analysis,Science,58882
+53,Female,Masters,Government,50,Widowed,Manager,Excel,Education,135715
+62,Female,Diploma,Self-employed,29,Divorced,Manager,Communication,Business,88444
+25,Male,Diploma,Self-employed,56,Widowed,Doctor,C++,Education,82309
+46,Male,PhD,Government,48,Married,Technician,Data Analysis,Education,118194
+49,Male,High School,Unemployed,37,Single,Doctor,Leadership,Technology,89821
+61,Male,PhD,Self-employed,57,Widowed,Doctor,Python,Education,217862
+35,Female,Bachelors,Private,58,Married,Manager,Data Analysis,Technology,103504
+23,Male,Diploma,Government,25,Divorced,Salesperson,Data Analysis,Health,61961
+35,Male,High School,Self-employed,59,Single,Salesperson,Leadership,Art,48326
+36,Male,Bachelors,Unemployed,31,Single,Salesperson,Communication,Education,68067
+39,Female,Bachelors,Self-employed,33,Divorced,Technician,Excel,Art,58904
+54,Female,High School,Freelancer,29,Divorced,Manager,Excel,Technology,67522
+49,Male,Bachelors,Private,39,Single,Engineer,Public Speaking,Education,69342
+58,Male,High School,Government,34,Widowed,Artist,C++,Business,43115
+20,Male,High School,Freelancer,50,Single,Artist,Communication,Health,42257
+45,Female,Masters,Unemployed,26,Divorced,Engineer,Leadership,Science,86898
+27,Female,PhD,Freelancer,29,Widowed,Salesperson,Communication,Health,129086
+52,Female,Bachelors,Freelancer,29,Married,Artist,Communication,Education,43885
+46,Male,Bachelors,Unemployed,58,Single,Technician,Excel,Health,69375
+32,Female,Masters,Freelancer,47,Divorced,Manager,Leadership,Science,149524
+50,Male,Masters,Government,49,Married,Artist,Python,Business,74677
+24,Male,Masters,Self-employed,56,Single,Technician,Data Analysis,Art,107219
+29,Male,Diploma,Freelancer,22,Single,Manager,Excel,Business,95251
+47,Female,Diploma,Government,34,Widowed,Technician,Leadership,Health,58088
+38,Male,Diploma,Self-employed,40,Divorced,Engineer,C++,Science,83799
+48,Female,High School,Self-employed,56,Married,Doctor,Data Analysis,Art,76239
+41,Female,Bachelors,Freelancer,31,Single,Engineer,Data Analysis,Science,96419
+37,Male,PhD,Government,23,Widowed,Artist,Excel,Business,104643
+54,Male,High School,Freelancer,28,Married,Manager,Public Speaking,Technology,68418
+21,Female,Bachelors,Unemployed,58,Married,Technician,C++,Technology,77262
+45,Male,Bachelors,Self-employed,47,Single,Artist,Excel,Art,57494
+61,Female,Masters,Freelancer,42,Married,Artist,Communication,Art,68561
+37,Male,Masters,Self-employed,59,Single,Doctor,Public Speaking,Art,159212
+41,Female,High School,Government,41,Widowed,Salesperson,Leadership,Technology,41320
+49,Female,Masters,Private,43,Widowed,Artist,C++,Business,58818
+58,Female,Bachelors,Freelancer,45,Married,Doctor,Data Analysis,Art,121788
+53,Female,Masters,Freelancer,49,Single,Manager,Excel,Technology,136557
+51,Male,Diploma,Self-employed,52,Divorced,Manager,Data Analysis,Art,98202
+53,Male,Masters,Government,35,Widowed,Technician,C++,Art,80016
+19,Female,Bachelors,Unemployed,41,Single,Salesperson,Data Analysis,Science,52891
+32,Female,High School,Government,37,Single,Doctor,Excel,Art,64727
+51,Male,PhD,Freelancer,26,Single,Engineer,Public Speaking,Technology,128708
+53,Male,Masters,Unemployed,45,Married,Manager,Excel,Business,144368
+23,Male,Bachelors,Government,27,Divorced,Salesperson,Python,Technology,67173
+56,Male,PhD,Private,25,Married,Technician,Data Analysis,Technology,121532
+59,Male,PhD,Self-employed,49,Widowed,Engineer,Python,Art,158108
+29,Male,Diploma,Government,58,Married,Manager,Public Speaking,Science,80910
+20,Female,PhD,Government,42,Single,Manager,Python,Education,168923
+62,Male,Bachelors,Private,51,Married,Technician,Data Analysis,Education,65538
+35,Male,Bachelors,Freelancer,41,Single,Technician,C++,Education,84597
+57,Female,Masters,Self-employed,28,Divorced,Teacher,Communication,Technology,81750
+38,Male,Masters,Government,50,Married,Artist,Public Speaking,Art,57046
+32,Male,Masters,Unemployed,26,Married,Artist,Excel,Education,75855
+50,Male,PhD,Government,28,Married,Engineer,Leadership,Health,135477
+52,Male,PhD,Self-employed,32,Single,Artist,Public Speaking,Health,99577
+43,Male,Diploma,Government,22,Single,Engineer,Python,Health,80745
+25,Female,Masters,Private,54,Married,Salesperson,C++,Business,66516
+53,Male,High School,Government,52,Married,Manager,Data Analysis,Art,63535
+47,Female,Diploma,Government,40,Divorced,Teacher,C++,Technology,42017
+40,Female,High School,Unemployed,50,Divorced,Teacher,C++,Technology,32537
+59,Male,PhD,Private,53,Widowed,Manager,Data Analysis,Art,187040
+61,Female,Diploma,Private,51,Divorced,Technician,Leadership,Science,64878
+31,Male,Diploma,Government,54,Divorced,Doctor,Data Analysis,Science,81947
+31,Female,Bachelors,Unemployed,34,Divorced,Doctor,Leadership,Business,131545
+19,Female,PhD,Government,51,Single,Artist,Data Analysis,Art,86481
+54,Male,PhD,Government,25,Divorced,Technician,Python,Science,107248
+22,Male,Diploma,Self-employed,40,Divorced,Engineer,Leadership,Business,62083
+55,Male,PhD,Self-employed,52,Married,Salesperson,Python,Education,126004
+62,Male,Diploma,Unemployed,51,Single,Teacher,Public Speaking,Education,41128
+58,Male,Bachelors,Freelancer,38,Widowed,Artist,Leadership,Business,54084
+64,Female,Diploma,Self-employed,52,Widowed,Manager,Leadership,Art,82413
+31,Female,PhD,Freelancer,47,Divorced,Technician,Data Analysis,Education,135157
+56,Female,PhD,Private,50,Widowed,Teacher,Leadership,Art,109260
+42,Female,Diploma,Self-employed,40,Widowed,Engineer,Python,Science,64929
+37,Female,Diploma,Self-employed,53,Widowed,Engineer,Public Speaking,Education,72741
+19,Female,Diploma,Unemployed,34,Divorced,Doctor,Data Analysis,Science,106901
+56,Female,Masters,Freelancer,33,Widowed,Artist,Excel,Art,62657
+23,Male,PhD,Self-employed,38,Divorced,Manager,Public Speaking,Art,165727
